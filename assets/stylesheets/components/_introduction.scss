@@ -1,0 +1,22 @@
+.introduction {
+  margin-bottom: $spacing-unit * 10;
+  
+  header {
+    margin-bottom: $spacing-unit * 6;
+  }
+  
+  h2 {
+    display: block;
+    color: #7A686D;
+    font-size: 41px;
+    line-height: 57px;
+  }
+  
+  a {
+    display: inline-block;
+    color: $color-primary;
+    font-size: 41px;
+    line-height: 33px;
+    font-family: 'mreavesxlsanot-ultraitalic';
+  }
+}

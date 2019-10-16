@@ -1,0 +1,7 @@
+.wrapper {
+  @include wrapper(100%, 1100px);
+  padding: {
+    right: $spacing-unit * 4;
+    left: $spacing-unit * 4;
+  }
+}

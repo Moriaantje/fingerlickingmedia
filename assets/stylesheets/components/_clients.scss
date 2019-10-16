@@ -1,0 +1,19 @@
+.clients {
+  margin-bottom: $spacing-unit * 10;
+  
+  header {
+    margin-bottom: $spacing-unit * 10;
+  }
+  
+  h2 {
+    display: block;
+    color: #393234;
+    font-family: 'mreavesxlsanot-heavy';
+    font-size: 64px;
+    line-height: 79px;
+  }  
+  
+  .client-logo-grid {
+    border: 1px solid #ddd;
+  }
+}

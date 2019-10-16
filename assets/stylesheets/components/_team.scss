@@ -1,0 +1,49 @@
+.team {
+  margin-bottom: $spacing-unit * 10;
+  
+  header {
+    margin-bottom: $spacing-unit * 10;
+  }
+  
+  h2 {
+    display: block;
+    color: #393234;
+    font-size: 64px;
+    font-weight: 800;
+    line-height: 79px;
+  }
+  
+  .team-profiles {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    grid-column-gap: $spacing-unit * 4;
+    grid-row-gap: $spacing-unit * 10;
+  }
+  
+  .profile {
+    
+    .picture {
+      display: block;
+      max-width: 100px;
+      height: auto;
+      margin-bottom: $spacing-unit * 2;
+      border-radius: 50%;
+    }
+    
+    .name {
+      display: block;
+      font-family: 'mreavesxlsanot-bold';
+      font-size: 33px;
+      line-height: 43px;
+    }
+    
+    .function {
+      display: block;
+      color: #9D8189;
+      font-family: 'mreavesxlsanot-regitalic';
+      font-size: 17px;
+      line-height: 25px;
+      margin-bottom: $spacing-unit;
+    }
+  }
+}

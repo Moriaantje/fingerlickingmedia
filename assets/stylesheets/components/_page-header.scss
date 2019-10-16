@@ -1,0 +1,41 @@
+.page-header {
+  width: 100%;
+  background: #aaa;
+  padding: {
+    top: $spacing-unit * 37;
+    bottom: $spacing-unit * 35;
+  }
+  margin-bottom: $spacing-unit * 10;
+  
+  h1 {
+    color: #fff;
+    font-size: 81px;
+    line-height: 79px;
+    font-family: 'mreavesxlsanot-heavy';
+  }
+  
+  p {
+    color: #fff;
+    font-size: 26px;
+    line-height: 33px;
+    margin-top: $spacing-unit * 4;
+  }
+  
+  .our-work & {
+    background: #fff;
+    padding: {
+      top: $spacing-unit * 22;
+      bottom: 0;
+    }
+    
+    h1, p {
+      color: $color-copy;
+    }
+    
+    p {
+      color: #7A686D;
+      font-size: 41px;
+      line-height: 57px;
+    }
+  }
+}

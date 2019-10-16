@@ -1,0 +1,27 @@
+.call-to-action {
+  padding-top: $spacing-unit * 10;
+  border-top: 4px solid #FAF9F9;
+  
+  header {
+    margin-bottom: $spacing-unit * 2;
+  }
+  
+  h2 {
+    display: block;
+    color: #393234;
+    font-family: 'mreavesxlsanot-heavy';
+    font-size: 64px;
+    line-height: 79px;
+  }
+  
+  p {
+    display: block;
+    color: #7A686D;
+    font-size: 41px;
+    line-height: 62px;
+  }
+  
+  a {
+    color: #7A686D;
+  }
+}

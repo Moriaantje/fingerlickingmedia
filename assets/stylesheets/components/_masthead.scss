@@ -1,0 +1,28 @@
+.masthead {
+  @include flexbox(flex, column, wrap, flex-start, flex-start);
+  position: absolute;
+  top: 0;
+  right: 0;
+  left: 0;
+  padding-top: $spacing-unit * 5;
+  
+  .wrapper {
+    @include flexbox();
+  }
+  
+  .logo { 
+    font-size: 26px;
+    font-family: 'mreavesxlsanot-ultraitalic';
+  }
+  
+  .logo a {
+    color: #fff;
+  }
+  
+  .our-work & {
+    
+    .logo a {
+      color: $color-primary;
+    }
+  }
+}

@@ -1,0 +1,45 @@
+footer {
+  padding-top: 120px;
+  padding-bottom: 140px;
+  
+  .wrapper {
+    @include flexbox();
+  }
+  
+  .logo {
+    opacity: 0.5;
+    color: #493B3F;
+    font-family: 'mreavesxlsanot-ultraitalic';
+    font-size: 26px;
+  }
+  
+  .social-media {
+    @include flexbox();
+    margin-left: auto;
+  }
+  
+  .social-media li {
+    margin-left: $spacing-unit * 2;
+    
+    a {
+      display: block;
+      width: $spacing-unit * 5;
+      height: $spacing-unit * 5;
+      font-size: 0;
+      background-repeat: no-repeat;
+      background-position: center;
+    }
+    
+    a:hover {
+      opacity: 0.6;
+    }
+    
+    .facebook {
+      background-image: url('/assets/images/icon-facebook.svg');
+    }
+    
+    .instagram {
+      background-image: url('/assets/images/icon-instagram.svg');
+    }
+  }
+}

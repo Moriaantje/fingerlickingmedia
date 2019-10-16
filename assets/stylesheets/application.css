@@ -1,0 +1,434 @@
+@charset "UTF-8";
+/*
+ * Emigre web font kit RAScPVtrVg8cXZMV+YwyFg==
+ * 
+ * These fonts are not shareware. 
+ * Use of these fonts requires the purchase 
+ * of a license from Emigre, www.emigre.com  
+ * Please contact sales@emigre.com
+ *
+ * To purchase a license to use this font go to:
+ * http://www.emigre.com/
+ *
+ * © 2019 Emigre, Inc
+ */
+@font-face {
+  font-family: 'mreavesxlsanot-reg';
+  src: url("/assets/fonts/mreavesxlsanot-reg-webfont.eot");
+  src: url("/assets/fonts/mreavesxlsanot-reg-webfont.eot?#iefix") format("embedded-opentype"), url("/assets/fonts/mreavesxlsanot-reg-webfont.woff2") format("woff2"), url("/assets/fonts/mreavesxlsanot-reg-webfont.woff") format("woff");
+  font-weight: normal;
+  font-style: normal; }
+
+@font-face {
+  font-family: 'mreavesxlsanot-regitalic';
+  src: url("/assets/fonts/mreavesxlsanot-regitalic-webfont.eot");
+  src: url("/assets/fonts/mreavesxlsanot-regitalic-webfont.eot?#iefix") format("embedded-opentype"), url("/assets/fonts/mreavesxlsanot-regitalic-webfont.woff2") format("woff2"), url("/assets/fonts/mreavesxlsanot-regitalic-webfont.woff") format("woff");
+  font-weight: normal;
+  font-style: normal; }
+
+@font-face {
+  font-family: 'mreavesxlsanot-bold';
+  src: url("/assets/fonts/mreavesxlsanot-bold-webfont.eot");
+  src: url("/assets/fonts/mreavesxlsanot-bold-webfont.eot?#iefix") format("embedded-opentype"), url("/assets/fonts/mreavesxlsanot-bold-webfont.woff2") format("woff2"), url("/assets/fonts/mreavesxlsanot-bold-webfont.woff") format("woff");
+  font-weight: normal;
+  font-style: normal; }
+
+@font-face {
+  font-family: 'mreavesxlsanot-bolditalic';
+  src: url("/assets/fonts/mreavesxlsanot-bolditalic-webfont.eot");
+  src: url("/assets/fonts/mreavesxlsanot-bolditalic-webfont.eot?#iefix") format("embedded-opentype"), url("/assets/fonts/mreavesxlsanot-bolditalic-webfont.woff2") format("woff2"), url("/assets/fonts/mreavesxlsanot-bolditalic-webfont.woff") format("woff");
+  font-weight: normal;
+  font-style: normal; }
+
+@font-face {
+  font-family: 'mreavesxlsanot-heavy';
+  src: url("/assets/fonts/mreavesxlsanot-heavy-webfont.eot");
+  src: url("/assets/fonts/mreavesxlsanot-heavy-webfont.eot?#iefix") format("embedded-opentype"), url("/assets/fonts/mreavesxlsanot-heavy-webfont.woff2") format("woff2"), url("/assets/fonts/mreavesxlsanot-heavy-webfont.woff") format("woff");
+  font-weight: normal;
+  font-style: normal; }
+
+@font-face {
+  font-family: 'mreavesxlsanot-heavyitalic';
+  src: url("/assets/fonts/mreavesxlsanot-heavyitalic-webfont.eot");
+  src: url("/assets/fonts/mreavesxlsanot-heavyitalic-webfont.eot?#iefix") format("embedded-opentype"), url("/assets/fonts/mreavesxlsanot-heavyitalic-webfont.woff2") format("woff2"), url("/assets/fonts/mreavesxlsanot-heavyitalic-webfont.woff") format("woff");
+  font-weight: normal;
+  font-style: normal; }
+
+@font-face {
+  font-family: 'mreavesxlsanot-ultra';
+  src: url("/assets/fonts/mreavesxlsanot-ultra-webfont.eot");
+  src: url("/assets/fonts/mreavesxlsanot-ultra-webfont.eot?#iefix") format("embedded-opentype"), url("/assets/fonts/mreavesxlsanot-ultra-webfont.woff2") format("woff2"), url("/assets/fonts/mreavesxlsanot-ultra-webfont.woff") format("woff");
+  font-weight: normal;
+  font-style: normal; }
+
+@font-face {
+  font-family: 'mreavesxlsanot-ultraitalic';
+  src: url("/assets/fonts/mreavesxlsanot-ultraitalic-webfont.eot");
+  src: url("/assets/fonts/mreavesxlsanot-ultraitalic-webfont.eot?#iefix") format("embedded-opentype"), url("/assets/fonts/mreavesxlsanot-ultraitalic-webfont.woff2") format("woff2"), url("/assets/fonts/mreavesxlsanot-ultraitalic-webfont.woff") format("woff");
+  font-weight: normal;
+  font-style: normal; }
+
+html, body,
+h1, h2, h3, h4, h5, h6,
+a, p, span,
+em, small, strong,
+sub, sup,
+mark, del, ins, strike,
+abbr, dfn,
+blockquote, q, cite,
+code, pre,
+ol, ul, li, dl, dt, dd,
+div, section, article,
+main, aside, nav,
+header, hgroup, footer,
+img, figure, figcaption,
+address, time,
+audio, video,
+canvas, iframe,
+details, summary,
+fieldset, form, label, legend,
+table, caption,
+tbody, tfoot, thead,
+tr, th, td {
+  font-size: 100%;
+  font-weight: inherit;
+  font-style: inherit;
+  font-family: inherit;
+  vertical-align: baseline;
+  padding: 0;
+  margin: 0;
+  border: 0;
+  outline: 0; }
+
+html {
+  text-size-adjust: 100%;
+  -ms-text-size-adjust: 100%;
+  -webkit-text-size-adjust: 100%;
+  -webkit-font-smoothing: antialiased;
+  text-rendering: optimizeLegibility; }
+
+a, u {
+  text-decoration: underline; }
+
+a:hover {
+  text-decoration: none; }
+
+em, i {
+  font-style: italic; }
+
+b, strong {
+  font-weight: bold; }
+
+code, kbd, samp {
+  -moz-osx-font-smoothing: auto;
+  -webkit-font-smoothing: auto;
+  font-family: SFMono-Regular, Consolas, 'Liberation Mono', Menlo, Courier, monospace; }
+
+main, article, aside, footer,
+header, nav, section {
+  display: block; }
+
+* {
+  box-sizing: border-box; }
+
+*:before,
+*:after {
+  box-sizing: inherit; }
+
+table {
+  border-collapse: collapse;
+  border-spacing: 0; }
+
+ol,
+ul {
+  list-style: none; }
+
+img,
+video {
+  max-width: 100%; }
+
+img {
+  border-style: none; }
+
+blockquote, q {
+  quotes: none; }
+
+blockquote:after,
+blockquote:before,
+q:after,
+q:before {
+  content: "";
+  content: none; }
+
+[hidden] {
+  display: none !important; }
+
+[disabled] {
+  cursor: not-allowed; }
+
+:focus:not(:focus-visible) {
+  outline: none; }
+
+body {
+  color: #393234;
+  font-weight: 400;
+  font-family: 'mreavesxlsanot-reg';
+  font-size: 17px;
+  line-height: 25px;
+  background: #fff; }
+
+a {
+  color: #393234;
+  text-decoration: none;
+  transition: all .3s; }
+  a:hover {
+    text-decoration: underline; }
+
+.masthead {
+  display: flex;
+  flex-direction: column;
+  flex-wrap: wrap;
+  justify-content: flex-start;
+  align-items: flex-start;
+  position: absolute;
+  top: 0;
+  right: 0;
+  left: 0;
+  padding-top: 30px; }
+  .masthead .wrapper {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: flex-start;
+    align-items: flex-start; }
+  .masthead .logo {
+    font-size: 26px;
+    font-family: 'mreavesxlsanot-ultraitalic'; }
+  .masthead .logo a {
+    color: #fff; }
+  .our-work .masthead .logo a {
+    color: #E24A74; }
+
+.navigation {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: flex-start;
+  align-items: flex-start;
+  margin-left: auto; }
+  .navigation a {
+    color: #fff; }
+  .navigation nav {
+    margin-left: auto; }
+  .navigation ul {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: flex-start;
+    align-items: flex-start; }
+  .navigation li {
+    font-family: 'mreavesxlsanot-heavy';
+    font-size: 17px;
+    line-height: 25px;
+    margin-right: 18px; }
+  .navigation li:last-child {
+    margin-right: 0; }
+  .our-work .navigation a {
+    color: #393234; }
+
+.page-header {
+  width: 100%;
+  background: #aaa;
+  padding-top: 222px;
+  padding-bottom: 210px;
+  margin-bottom: 60px; }
+  .page-header h1 {
+    color: #fff;
+    font-size: 81px;
+    line-height: 79px;
+    font-family: 'mreavesxlsanot-heavy'; }
+  .page-header p {
+    color: #fff;
+    font-size: 26px;
+    line-height: 33px;
+    margin-top: 24px; }
+  .our-work .page-header {
+    background: #fff;
+    padding-top: 132px;
+    padding-bottom: 0; }
+    .our-work .page-header h1, .our-work .page-header p {
+      color: #393234; }
+    .our-work .page-header p {
+      color: #7A686D;
+      font-size: 41px;
+      line-height: 57px; }
+
+.introduction {
+  margin-bottom: 60px; }
+  .introduction header {
+    margin-bottom: 36px; }
+  .introduction h2 {
+    display: block;
+    color: #7A686D;
+    font-size: 41px;
+    line-height: 57px; }
+  .introduction a {
+    display: inline-block;
+    color: #E24A74;
+    font-size: 41px;
+    line-height: 33px;
+    font-family: 'mreavesxlsanot-ultraitalic'; }
+
+.about-our-work {
+  background: #aaa;
+  padding-top: 108px;
+  padding-bottom: 216px;
+  margin-bottom: 72px; }
+  .about-our-work header {
+    margin-bottom: 24px; }
+  .about-our-work h2 {
+    color: #FFFFFF;
+    font-family: 'mreavesxlsanot-heavy';
+    font-size: 81px;
+    line-height: 79px; }
+  .about-our-work p {
+    display: block;
+    color: #FFFFFF;
+    font-size: 41px;
+    line-height: 57px; }
+
+.clients {
+  margin-bottom: 60px; }
+  .clients header {
+    margin-bottom: 60px; }
+  .clients h2 {
+    display: block;
+    color: #393234;
+    font-family: 'mreavesxlsanot-heavy';
+    font-size: 64px;
+    line-height: 79px; }
+  .clients .client-logo-grid {
+    border: 1px solid #ddd; }
+
+.services {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  grid-column-gap: 36px;
+  grid-row-gap: 72px;
+  margin-bottom: 60px; }
+  .services .single-service header {
+    margin-bottom: 24px; }
+  .services .single-service h2 {
+    display: block;
+    color: #393234;
+    font-family: 'mreavesxlsanot-bold';
+    font-size: 33px;
+    line-height: 43px; }
+
+.our-work .our-work-slider {
+  height: 600px;
+  background: #aaa;
+  margin-bottom: 60px; }
+
+.team {
+  margin-bottom: 60px; }
+  .team header {
+    margin-bottom: 60px; }
+  .team h2 {
+    display: block;
+    color: #393234;
+    font-size: 64px;
+    font-weight: 800;
+    line-height: 79px; }
+  .team .team-profiles {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    grid-column-gap: 24px;
+    grid-row-gap: 60px; }
+  .team .profile .picture {
+    display: block;
+    max-width: 100px;
+    height: auto;
+    margin-bottom: 12px;
+    border-radius: 50%; }
+  .team .profile .name {
+    display: block;
+    font-family: 'mreavesxlsanot-bold';
+    font-size: 33px;
+    line-height: 43px; }
+  .team .profile .function {
+    display: block;
+    color: #9D8189;
+    font-family: 'mreavesxlsanot-regitalic';
+    font-size: 17px;
+    line-height: 25px;
+    margin-bottom: 6px; }
+
+.contact-details {
+  font-size: 26px;
+  line-height: 40px;
+  margin-bottom: 60px; }
+
+.call-to-action {
+  padding-top: 60px;
+  border-top: 4px solid #FAF9F9; }
+  .call-to-action header {
+    margin-bottom: 12px; }
+  .call-to-action h2 {
+    display: block;
+    color: #393234;
+    font-family: 'mreavesxlsanot-heavy';
+    font-size: 64px;
+    line-height: 79px; }
+  .call-to-action p {
+    display: block;
+    color: #7A686D;
+    font-size: 41px;
+    line-height: 62px; }
+  .call-to-action a {
+    color: #7A686D; }
+
+footer {
+  padding-top: 120px;
+  padding-bottom: 140px; }
+  footer .wrapper {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: flex-start;
+    align-items: flex-start; }
+  footer .logo {
+    opacity: 0.5;
+    color: #493B3F;
+    font-family: 'mreavesxlsanot-ultraitalic';
+    font-size: 26px; }
+  footer .social-media {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: flex-start;
+    align-items: flex-start;
+    margin-left: auto; }
+  footer .social-media li {
+    margin-left: 12px; }
+    footer .social-media li a {
+      display: block;
+      width: 30px;
+      height: 30px;
+      font-size: 0;
+      background-repeat: no-repeat;
+      background-position: center; }
+    footer .social-media li a:hover {
+      opacity: 0.6; }
+    footer .social-media li .facebook {
+      background-image: url("/assets/images/icon-facebook.svg"); }
+    footer .social-media li .instagram {
+      background-image: url("/assets/images/icon-instagram.svg"); }
+
+.wrapper {
+  width: 100%;
+  max-width: 1100px;
+  margin-right: auto;
+  margin-left: auto;
+  padding-right: 24px;
+  padding-left: 24px; }

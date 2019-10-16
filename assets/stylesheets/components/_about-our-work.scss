@@ -1,0 +1,24 @@
+.about-our-work {
+  background: #aaa;
+  padding-top: $spacing-unit * 18;
+  padding-bottom: $spacing-unit * 36;
+  margin-bottom: $spacing-unit * 12;
+  
+  header {
+    margin-bottom: $spacing-unit * 4;
+  }
+  
+  h2 {
+    color: #FFFFFF;
+    font-family: 'mreavesxlsanot-heavy';
+    font-size: 81px;
+    line-height: 79px;
+  }
+  
+  p {
+    display: block;
+    color: #FFFFFF;
+    font-size: 41px;
+    line-height: 57px;
+  }
+}

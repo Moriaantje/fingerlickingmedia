@@ -1,0 +1,30 @@
+//
+// Body
+// ==================================
+//
+body {
+  color: $color-copy;
+  font-weight: 400;
+  font-family: 'mreavesxlsanot-reg';
+  font-size: $font-size-copy;
+  line-height: $line-height-copy;
+  background: #fff;
+}
+
+//
+// Anchors
+// ==================================
+//
+a {
+  color: $color-copy;
+  text-decoration: none;
+  transition: all .3s;
+  
+  &:hover {
+    text-decoration: underline;
+  }
+  
+  &:active {
+    
+  }
+}
