@@ -9,6 +9,13 @@
 	],
 "creatorBuild": "28905",
 "files": {
+	"/.gitignore": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "/.gitignore",
+		"oF": 0
+		},
 	"/about-us.html": {
 		"cB": 0,
 		"ft": 8192,
@@ -184,6 +191,26 @@
 		"oAP": "/assets/fonts/mreavesxlsanot-ultraitalic-webfont.woff2",
 		"oF": 0
 		},
+	"/assets/images/arrow-left.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "/assets/images/arrow-left.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"/assets/images/arrow-right.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "/assets/images/arrow-right.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
 	"/assets/images/avatar-temp.png": {
 		"ft": 32768,
 		"iS": 20755,
@@ -223,6 +250,16 @@
 		"oAP": "/assets/javascript/application-min.js",
 		"oF": 1,
 		"sC": 0,
+		"tS": 0
+		},
+	"/assets/javascript/vendor/tiny-slider.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 0,
+		"oA": 0,
+		"oAP": "/assets/javascript/vendor/tiny-slider-min.js",
+		"oF": 0,
+		"sC": 3,
 		"tS": 0
 		},
 	"/assets/stylesheets/application.css": {
@@ -465,6 +502,19 @@
 		"ma": 0,
 		"oA": 1,
 		"oAP": "/assets/stylesheets/components/_team.css",
+		"oF": 0,
+		"oS": 0,
+		"uL": 1
+		},
+	"/assets/stylesheets/components/_tiny-slider.scss": {
+		"aP": 0,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 0,
+		"oA": 1,
+		"oAP": "/assets/stylesheets/components/_tiny-slider.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
