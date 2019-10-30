@@ -21,4 +21,16 @@
     font-size: 41px;
     line-height: 57px;
   }
+  
+  @include respond-to-max(900px) {
+    h2 {
+      font-size: 61px;
+      line-height: 59px;
+    }
+    
+    p {
+      font-size: 31px;
+      line-height: 47px;
+    }
+  }
 }

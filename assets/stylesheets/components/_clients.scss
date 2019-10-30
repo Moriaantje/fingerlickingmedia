@@ -16,4 +16,12 @@
   .client-logo-grid {
     border: 1px solid #ddd;
   }
+  
+  @include respond-to-max(900px) {
+    
+    h2 {
+      font-size: 44px;
+      line-height: 59px;
+    }
+  }
 }

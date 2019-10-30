@@ -10,6 +10,7 @@
     color: #393234;
     font-size: 64px;
     font-weight: 800;
+    font-family: 'mreavesxlsanot-heavy';
     line-height: 79px;
   }
   
@@ -44,6 +45,24 @@
       font-size: 17px;
       line-height: 25px;
       margin-bottom: $spacing-unit;
+    }
+  }
+  
+  @include respond-to-max(900px) {
+    h2 {
+      font-size: 44px;
+      line-height: 59px;
+    }
+    
+    .team-profiles {
+      grid-template-columns: 1fr 1fr;
+    }    
+  }
+  
+  @include respond-to-max(700px) {
+    .team-profiles {
+      grid-template-columns: 1fr;
+      grid-row-gap: $spacing-unit * 6;
     }
   }
 }

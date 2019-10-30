@@ -9,6 +9,11 @@ body {
   font-size: $font-size-copy;
   line-height: $line-height-copy;
   background: #fff;
+  
+  &.has-overlay {
+    height: 100vh;
+    overflow: hidden;
+  }
 }
 
 //

@@ -38,4 +38,20 @@
       line-height: 57px;
     }
   }
+  
+  @include respond-to-max(900px) {
+    
+    h1 {
+      font-size: 71px;
+      line-height: 69px;
+    }
+    
+    .our-work & {
+      
+      p {
+        font-size: 26px;
+        line-height: 33px;
+      }
+    }
+  }
 }

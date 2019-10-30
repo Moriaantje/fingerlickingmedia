@@ -1,6 +1,10 @@
-var isOurWorkPage = document.getElementsByClassName('our-work');
+document.getElementById('hamburger').addEventListener("click", function(e) {
+  e.preventDefault();
+  document.getElementById('navigation').classList.toggle("is-active");
+  document.body.classList.toggle('has-overlay');
+}, false);
 
-if (isOurWorkPage.length > 0) {
+if (document.getElementsByClassName('our-work').length > 0) {
   var slider = tns({
     "container":  '.our-work-slider',
     "items":      1,

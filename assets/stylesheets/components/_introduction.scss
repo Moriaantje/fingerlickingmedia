@@ -19,4 +19,18 @@
     line-height: 33px;
     font-family: 'mreavesxlsanot-ultraitalic';
   }
+  
+  
+  @include respond-to-max(900px) {
+    
+    h2 {
+      font-size: 31px;
+      line-height: 47px;
+    }
+    
+    a {
+      font-size: 31px;
+      line-height: 37px;
+    }
+  }
 }

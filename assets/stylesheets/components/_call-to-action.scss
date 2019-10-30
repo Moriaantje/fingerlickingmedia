@@ -18,10 +18,24 @@
     display: block;
     color: #7A686D;
     font-size: 41px;
-    line-height: 62px;
+    line-height: 52px;
   }
   
   a {
     color: #7A686D;
+    word-wrap: break-word;
+  }
+  
+  @include respond-to-max(900px) {
+    
+    h2 {
+      font-size: 44px;
+      line-height: 59px;
+    }
+    
+    p {
+      font-size: 31px;
+      line-height: 42px;
+    }
   }
 }

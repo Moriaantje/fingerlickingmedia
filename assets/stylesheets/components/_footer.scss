@@ -1,6 +1,6 @@
 footer {
   padding-top: 120px;
-  padding-bottom: 140px;
+  padding-bottom: 120px;
   
   .wrapper {
     @include flexbox();
@@ -40,6 +40,22 @@ footer {
     
     .instagram {
       background-image: url('/assets/images/icon-instagram.svg');
+    }
+  }
+  
+  @include respond-to-max(700px) {
+    .wrapper {
+      display: block;
+    }
+    
+    .social-media {
+      margin-top: $spacing-unit * 4;
+      margin-left: 0;
+    }
+    
+    .social-media li {
+      margin-right: $spacing-unit * 2;
+      margin-left: 0;
     }
   }
 }

@@ -1,4 +1,4 @@
-.navigation {
+#navigation {
   @include flexbox();
   margin-left: auto;
   
@@ -25,10 +25,115 @@
     margin-right: 0;
   }
   
+  #hamburger {
+    display: none;
+  }
+  
   .our-work & {
   
     a {
       color: $color-copy;
+    }
+  }
+}
+
+@include respond-to-max(768px) {
+  
+  #navigation {
+    
+    ul {
+      display: none;
+    }
+    
+    #hamburger {
+      @include flexbox(flex, row, wrap, flex-start, center);
+      position: relative;
+      z-index: 9999;
+      width: 24px;
+      height: 18px;
+      font-size: 0;
+      
+      span,
+      &:before,
+      &:after {
+        display: block;
+        width: 100%;
+        height: 2px;
+        background: #fff;
+        transition: all .3s;
+      }
+      
+      &:before,
+      &:after {
+        position: absolute;
+        content: '';
+      }
+      
+      &:before {
+        top: 0;
+      }
+      
+      &:after {
+        bottom: 0;
+      }
+      
+      .our-work & {
+        span,
+        &:before,
+        &:after {
+          background: #222;
+        }
+      }
+    }
+  }
+  
+  #navigation.is-active {
+    
+    a {
+      color: #fff;
+    }
+    
+    ul {
+      position: fixed;
+      z-index: 9999;
+      top: 0;
+      right: 0;
+      bottom: 0;
+      left: 0;
+      display: block;
+      text-align: center;
+      padding-top: $spacing-unit * 14;
+      background: rgba(0,0,0,.9);
+    }
+    
+    li {
+      font-size: 27px;
+      line-height: 38px;
+      margin-bottom: $spacing-unit * 3;
+      margin-right: 0;
+    }
+    
+    #hamburger {
+      
+      span {
+        display: none;
+      }
+      
+      &:before,
+      &:after {
+        background: #fff;
+      }
+      
+      &:before {
+        top: ($spacing-unit + 2);
+        transform: rotate(45deg);
+      }
+      
+      
+      &:after {
+        transform: rotate(-45deg);
+        bottom: ($spacing-unit + 2);
+      }
     }
   }
 }
