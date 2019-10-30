@@ -441,7 +441,7 @@ a {
   .page-header h1 {
     color: #fff;
     font-size: 81px;
-    line-height: 79px;
+    line-height: 91px;
     font-family: 'mreavesxlsanot-heavy'; }
   .page-header p {
     color: #fff;
@@ -460,8 +460,8 @@ a {
       line-height: 57px; }
   @media only screen and (max-width: 900px) {
     .page-header h1 {
-      font-size: 71px;
-      line-height: 69px; }
+      font-size: 61px;
+      line-height: 71px; }
     .our-work .page-header p {
       font-size: 26px;
       line-height: 33px; } }
@@ -663,13 +663,13 @@ a {
   padding-top: 60px;
   border-top: 4px solid #FAF9F9; }
   .call-to-action header {
-    margin-bottom: 12px; }
+    margin-bottom: 24px; }
   .call-to-action h2 {
     display: block;
     color: #393234;
     font-family: 'mreavesxlsanot-heavy';
     font-size: 64px;
-    line-height: 79px; }
+    line-height: 64px; }
   .call-to-action p {
     display: block;
     color: #7A686D;
@@ -681,10 +681,10 @@ a {
   @media only screen and (max-width: 900px) {
     .call-to-action h2 {
       font-size: 44px;
-      line-height: 59px; }
+      line-height: 54px; }
     .call-to-action p {
       font-size: 31px;
-      line-height: 42px; } }
+      line-height: 41px; } }
 
 footer {
   padding-top: 120px;

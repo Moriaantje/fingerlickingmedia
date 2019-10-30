@@ -10,7 +10,7 @@
   h1 {
     color: #fff;
     font-size: 81px;
-    line-height: 79px;
+    line-height: 91px;
     font-family: 'mreavesxlsanot-heavy';
   }
   
@@ -42,8 +42,8 @@
   @include respond-to-max(900px) {
     
     h1 {
-      font-size: 71px;
-      line-height: 69px;
+      font-size: 61px;
+      line-height: 71px;
     }
     
     .our-work & {

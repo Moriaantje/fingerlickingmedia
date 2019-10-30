@@ -3,7 +3,7 @@
   border-top: 4px solid #FAF9F9;
   
   header {
-    margin-bottom: $spacing-unit * 2;
+    margin-bottom: $spacing-unit * 4;
   }
   
   h2 {
@@ -11,7 +11,7 @@
     color: #393234;
     font-family: 'mreavesxlsanot-heavy';
     font-size: 64px;
-    line-height: 79px;
+    line-height: 64px;
   }
   
   p {
@@ -30,12 +30,12 @@
     
     h2 {
       font-size: 44px;
-      line-height: 59px;
+      line-height: 54px;
     }
     
     p {
       font-size: 31px;
-      line-height: 42px;
+      line-height: 41px;
     }
   }
 }
