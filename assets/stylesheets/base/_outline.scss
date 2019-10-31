@@ -23,7 +23,7 @@ body {
 a {
   color: $color-copy;
   text-decoration: none;
-  transition: all .3s;
+  transition: color .3s;
   
   &:hover {
     text-decoration: underline;

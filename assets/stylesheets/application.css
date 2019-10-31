@@ -183,7 +183,7 @@ body {
 a {
   color: #393234;
   text-decoration: none;
-  transition: all .3s; }
+  transition: color .3s; }
   a:hover {
     text-decoration: underline; }
 
@@ -556,23 +556,27 @@ a {
       grid-row-gap: 36px; } }
 
 .our-work .our-work-slider {
-  height: 600px;
-  background: #aaa;
   margin-bottom: 60px; }
-  .our-work .our-work-slider div {
+  .our-work .our-work-slider .slide {
     width: 100vw;
-    height: 600px;
+    height: calc(100vw / 16 * 9); }
+  .our-work .our-work-slider video {
+    width: 100vw;
+    height: calc(100vw / 16 * 9); }
+  .our-work .our-work-slider > div {
+    width: 100vw;
+    height: calc(100vw / 16 * 9);
     background: #FF0000; }
-  .our-work .our-work-slider div:nth-child(2) {
+  .our-work .our-work-slider > div:nth-child(2) {
     background: #00FF00; }
-  .our-work .our-work-slider div:nth-child(3) {
+  .our-work .our-work-slider > div:nth-child(3) {
     background: #0000FF; }
 
 .tns-outer {
   position: relative; }
 
 .tns-ovh {
-  height: 600px; }
+  height: calc(100vw / 16 * 9); }
 
 .tns-controls {
   width: 100%;
@@ -585,7 +589,7 @@ a {
   justify-content: center;
   align-items: center;
   position: absolute;
-  z-index: 999;
+  z-index: 1;
   height: 69px;
   top: 50%;
   left: 50%;

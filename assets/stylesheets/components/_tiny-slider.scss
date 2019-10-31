@@ -7,14 +7,14 @@
 }
 
 .tns-ovh {
-  height: 600px;
+  height: calc(100vw / 16 * 9);
 }
 
 .tns-controls {
   @include wrapper(100%, 1100px);
   @include flexbox(flex, row, wrap, center, center);
   position: absolute;
-  z-index: 999;
+  z-index: 1;
   height: 69px;
   top: 50%;
   left: 50%;
