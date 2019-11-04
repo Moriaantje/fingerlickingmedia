@@ -297,6 +297,83 @@
 		"plM": 3758088159,
 		"prP": 0
 		},
+	"/assets/images/portfolio/ambassade.jpg": {
+		"ft": 16384,
+		"iS": 324773,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/assets/images/portfolio/ambassade.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/assets/images/portfolio/czaar.jpg": {
+		"ft": 16384,
+		"iS": 338472,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/assets/images/portfolio/czaar.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/assets/images/portfolio/hugtenburg.jpg": {
+		"ft": 16384,
+		"iS": 262474,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/assets/images/portfolio/hugtenburg.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/assets/images/portfolio/mlhr.jpg": {
+		"ft": 16384,
+		"iS": 168900,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/assets/images/portfolio/mlhr.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/assets/images/portfolio/mlhr2.jpg": {
+		"ft": 16384,
+		"iS": 213923,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/assets/images/portfolio/mlhr2.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/assets/images/portfolio/morriscocktails.jpg": {
+		"ft": 16384,
+		"iS": 325964,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/assets/images/portfolio/morriscocktails.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/assets/images/portfolio/soofdrinks.jpg": {
+		"ft": 16384,
+		"iS": 190185,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/assets/images/portfolio/soofdrinks.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
 	"/assets/javascript/application.js": {
 		"ft": 64,
 		"ma": 0,

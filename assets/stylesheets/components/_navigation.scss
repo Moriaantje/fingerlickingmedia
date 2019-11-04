@@ -134,6 +134,22 @@
         transform: rotate(-45deg);
         bottom: ($spacing-unit + 2);
       }
+      
+      #our-work & {
+        
+        span,
+        &:before,
+        &:after {
+          background: #fff;
+        }
+      }
+    }
+    
+    #our-work & {
+      
+      a {
+        color: #fff;
+      }
     }
   }
 }

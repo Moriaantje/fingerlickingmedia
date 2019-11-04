@@ -13,4 +13,20 @@
       height: calc(100vw / 16 * 9);
     }
   }
+  
+  .our-work-grid {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-column-gap: $spacing-unit * 4;
+    grid-row-gap: $spacing-unit * 6;
+    margin-bottom: $spacing-unit * 10;
+  }
+  
+  .work-item {
+    color: #9D8189;
+    
+    img {
+      margin-bottom: $spacing-unit;
+    }
+  }
 }
