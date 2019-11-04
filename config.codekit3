@@ -202,61 +202,6 @@
 		"oT": 1,
 		"q": 100
 		},
-	"/assets/images/headers/about_us_1.jpg": {
-		"ft": 16384,
-		"iS": 156286,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "/assets/images/headers/about_us_1.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"/assets/images/headers/contact_1.jpg": {
-		"ft": 16384,
-		"iS": 125511,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "/assets/images/headers/contact_1.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"/assets/images/headers/homepage_1.jpg": {
-		"ft": 16384,
-		"iS": 169238,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "/assets/images/headers/homepage_1.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"/assets/images/headers/homepage_2.jpg": {
-		"ft": 16384,
-		"iS": 263473,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "/assets/images/headers/homepage_2.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"/assets/images/headers/services_1.jpg": {
-		"ft": 16384,
-		"iS": 149859,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "/assets/images/headers/services_1.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
 	"/assets/images/icons/arrow-left.svg": {
 		"ft": 2097152,
 		"miP": 0,
