@@ -541,18 +541,25 @@ a {
     font-family: 'mreavesxlsanot-heavy';
     font-size: 64px;
     line-height: 79px; }
-  .clients .client-logo-grid {
-    border: 1px solid #ddd; }
-    .clients .client-logo-grid ol {
-      display: grid;
-      grid-template-columns: 1fr 1fr 1fr 1fr;
-      grid-row-gap: 60px; }
-    .clients .client-logo-grid li {
-      text-align: center; }
+  .clients .client-logo-grid ol {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    grid-column-gap: 18px;
+    grid-row-gap: 60px; }
+  .clients .client-logo-grid li {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    text-align: center; }
   @media only screen and (max-width: 900px) {
     .clients h2 {
       font-size: 44px;
       line-height: 59px; } }
+  @media only screen and (max-width: 768px) {
+    .clients .client-logo-grid ol {
+      grid-template-columns: 1fr 1fr; } }
 
 .services {
   display: grid;

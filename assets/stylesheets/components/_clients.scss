@@ -14,15 +14,16 @@
   }  
   
   .client-logo-grid {
-    border: 1px solid #ddd;
     
     ol {
       display: grid;
       grid-template-columns: 1fr 1fr 1fr 1fr;
+      grid-column-gap: $spacing-unit * 3;
       grid-row-gap: $spacing-unit * 10;
     }
     
     li {
+      @include flexbox(flex, row, wrap, center, center);
       text-align: center;
     }
   }
@@ -32,6 +33,16 @@
     h2 {
       font-size: 44px;
       line-height: 59px;
+    }
+  }
+  
+  @include respond-to-max(768px) {
+    
+    .client-logo-grid {
+      
+      ol {
+        grid-template-columns: 1fr 1fr;
+      }
     }
   }
 }
