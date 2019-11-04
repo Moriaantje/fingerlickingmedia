@@ -16,6 +16,7 @@
     font-family: 'mreavesxlsanot-heavy';
     font-size: 81px;
     line-height: 79px;
+    text-shadow: 0px 0px 40px rgba(0, 0, 0, 0.30);
   }
   
   p {
@@ -23,6 +24,7 @@
     color: #FFFFFF;
     font-size: 41px;
     line-height: 57px;
+    text-shadow: 0px 0px 40px rgba(0, 0, 0, 0.30);
   }
   
   @include respond-to-max(900px) {

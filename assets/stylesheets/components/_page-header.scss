@@ -14,6 +14,7 @@
     font-size: 81px;
     line-height: 91px;
     font-family: 'mreavesxlsanot-heavy';
+    text-shadow: 0px 0px 40px rgba(0, 0, 0, 0.30);
   }
   
   p {
@@ -40,6 +41,7 @@
     
     h1, p {
       color: $color-copy;
+      text-shadow: none;
     }
     
     p {
