@@ -591,13 +591,17 @@ a {
   display: grid;
   grid-template-columns: 1fr 1fr;
   grid-column-gap: 24px;
-  grid-row-gap: 36px;
+  grid-row-gap: 30px;
   margin-bottom: 60px; }
 
 #our-work .work-item {
   color: #9D8189; }
   #our-work .work-item img {
     margin-bottom: 6px; }
+
+@media only screen and (max-width: 600px) {
+  #our-work .our-work-grid {
+    grid-template-columns: 1fr; } }
 
 .tns-outer {
   position: relative; }
