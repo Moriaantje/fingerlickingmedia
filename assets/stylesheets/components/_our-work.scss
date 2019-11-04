@@ -1,4 +1,4 @@
-.our-work {
+#our-work {
   
   .our-work-slider {
     margin-bottom: $spacing-unit * 10;
@@ -11,25 +11,6 @@
     video {
       width: 100vw;
       height: calc(100vw / 16 * 9);
-    }
-    
-    img {
-      
-    }
-    
-    // TEMP
-    > div {
-      width: 100vw;
-      height: calc(100vw / 16 * 9);
-      background: #FF0000;
-    }
-    
-    > div:nth-child(2) {
-      background: #00FF00;
-    }
-    
-    > div:nth-child(3) {
-      background: #0000FF;
     }
   }
 }

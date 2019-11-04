@@ -33,12 +33,12 @@
   
   button[data-controls="prev"] {
     left: $spacing-unit * 4;
-    background: url('/assets/images/arrow-left.svg');
+    background: url('/assets/images/icons/arrow-left.svg');
   }
   
   button[data-controls="next"] {
     right: $spacing-unit * 4;
-    background: url('/assets/images/arrow-right.svg');
+    background: url('/assets/images/icons/arrow-right.svg');
   }
 }
 

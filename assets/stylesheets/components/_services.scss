@@ -2,7 +2,7 @@
   display: grid;
   grid-template-columns: 1fr 1fr 1fr;
   grid-column-gap: $spacing-unit * 6;
-  grid-row-gap: $spacing-unit * 12;
+  grid-row-gap: $spacing-unit * 10;
   margin-bottom: $spacing-unit * 10;
   
   .single-service {

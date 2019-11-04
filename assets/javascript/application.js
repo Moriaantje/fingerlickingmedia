@@ -4,7 +4,8 @@ document.getElementById('hamburger').addEventListener("click", function(e) {
   document.body.classList.toggle('has-overlay');
 }, false);
 
-if (document.getElementsByClassName('our-work').length > 0) {
+/*
+if (document.getElementsByClassName('our-work-slider').length > 0) {
   var slider = tns({
     "mode":       "gallery",
     "container":  '.our-work-slider',
@@ -18,3 +19,4 @@ if (document.getElementsByClassName('our-work').length > 0) {
     "controlsPosition": "bottom"
   });
 }
+*/

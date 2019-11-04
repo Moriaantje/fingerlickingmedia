@@ -191,52 +191,107 @@
 		"oAP": "/assets/fonts/mreavesxlsanot-ultraitalic-webfont.woff2",
 		"oF": 0
 		},
-	"/assets/images/arrow-left.svg": {
-		"ft": 2097152,
-		"miP": 0,
-		"oA": 2,
-		"oAP": "/assets/images/arrow-left.svg",
-		"oF": 0,
-		"opt": 0,
-		"plM": 3758088159,
-		"prP": 0
-		},
-	"/assets/images/arrow-right.svg": {
-		"ft": 2097152,
-		"miP": 0,
-		"oA": 2,
-		"oAP": "/assets/images/arrow-right.svg",
-		"oF": 0,
-		"opt": 0,
-		"plM": 3758088159,
-		"prP": 0
-		},
-	"/assets/images/avatar-temp.png": {
+	"/assets/images/avatars/avatar-temp.png": {
 		"ft": 32768,
 		"iS": 20755,
 		"oA": 0,
-		"oAP": "/assets/images/avatar-temp.png",
+		"oAP": "/assets/images/avatars/avatar-temp.png",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"oT": 1,
 		"q": 100
 		},
-	"/assets/images/icon-facebook.svg": {
+	"/assets/images/headers/about_us_1.jpg": {
+		"ft": 16384,
+		"iS": 156286,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/assets/images/headers/about_us_1.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/assets/images/headers/contact_1.jpg": {
+		"ft": 16384,
+		"iS": 125511,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/assets/images/headers/contact_1.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/assets/images/headers/homepage_1.jpg": {
+		"ft": 16384,
+		"iS": 169238,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/assets/images/headers/homepage_1.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/assets/images/headers/homepage_2.jpg": {
+		"ft": 16384,
+		"iS": 263473,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/assets/images/headers/homepage_2.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/assets/images/headers/services_1.jpg": {
+		"ft": 16384,
+		"iS": 149859,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/assets/images/headers/services_1.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/assets/images/icons/arrow-left.svg": {
 		"ft": 2097152,
 		"miP": 0,
 		"oA": 2,
-		"oAP": "/assets/images/icon-facebook.svg",
+		"oAP": "/assets/images/icons/arrow-left.svg",
 		"oF": 0,
 		"opt": 0,
 		"plM": 3758088159,
 		"prP": 0
 		},
-	"/assets/images/icon-instagram.svg": {
+	"/assets/images/icons/arrow-right.svg": {
 		"ft": 2097152,
 		"miP": 0,
 		"oA": 2,
-		"oAP": "/assets/images/icon-instagram.svg",
+		"oAP": "/assets/images/icons/arrow-right.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"/assets/images/icons/icon-facebook.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "/assets/images/icons/icon-facebook.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"/assets/images/icons/icon-instagram.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "/assets/images/icons/icon-instagram.svg",
 		"oF": 0,
 		"opt": 0,
 		"plM": 3758088159,

@@ -28,6 +28,7 @@ footer {
       font-size: 0;
       background-repeat: no-repeat;
       background-position: center;
+      transition: opacity .3s;
     }
     
     a:hover {
@@ -35,11 +36,11 @@ footer {
     }
     
     .facebook {
-      background-image: url('/assets/images/icon-facebook.svg');
+      background-image: url('/assets/images/icons/icon-facebook.svg');
     }
     
     .instagram {
-      background-image: url('/assets/images/icon-instagram.svg');
+      background-image: url('/assets/images/icons/icon-instagram.svg');
     }
   }
   

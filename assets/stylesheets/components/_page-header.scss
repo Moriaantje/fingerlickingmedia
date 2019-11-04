@@ -1,6 +1,8 @@
 .page-header {
   width: 100%;
   background: #aaa;
+  background-size: cover;
+  background-position: center;
   padding: {
     top: $spacing-unit * 37;
     bottom: $spacing-unit * 35;
@@ -21,7 +23,15 @@
     margin-top: $spacing-unit * 4;
   }
   
-  .our-work & {
+  #home & {
+    background-image: url('/assets/images/headers/homepage_1.jpg');
+  }
+  
+  #services & {
+    background-image: url('/assets/images/headers/services_1.jpg');
+  }
+  
+  #our-work & {
     background: #fff;
     padding: {
       top: $spacing-unit * 22;
@@ -39,6 +49,14 @@
     }
   }
   
+  #about-us & {
+    background-image: url('/assets/images/headers/about_us_1.jpg');
+  }
+  
+  #contact & {
+    background-image: url('/assets/images/headers/contact_1.jpg');
+  }
+  
   @include respond-to-max(900px) {
     
     h1 {
@@ -46,7 +64,7 @@
       line-height: 71px;
     }
     
-    .our-work & {
+    #our-work & {
       
       p {
         font-size: 26px;
