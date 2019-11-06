@@ -453,11 +453,16 @@ a {
     color: #fff; } }
 
 .page-header {
+  display: flex;
+  flex-direction: column;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
   width: 100%;
   background-size: cover;
   background-position: center;
-  padding-top: 222px;
-  padding-bottom: 210px;
+  height: calc(100vw / 16 * 9);
+  min-height: 500px;
   margin-bottom: 60px; }
   .page-header h1 {
     color: #fff;
@@ -475,6 +480,8 @@ a {
   #services .page-header {
     background-image: url("/assets/images/headers/services_1.jpg"); }
   #our-work .page-header {
+    height: auto;
+    min-height: auto;
     background: #fff;
     padding-top: 132px;
     padding-bottom: 0; }
@@ -530,11 +537,16 @@ a {
       background-position: center -30px; } }
 
 .about-our-work {
+  display: flex;
+  flex-direction: column;
+  flex-wrap: wrap;
+  justify-content: flex-start;
+  align-items: flex-start;
+  height: calc(100vw / 16 * 9);
   background-size: cover;
   background-position: center;
   background-image: url("/assets/images/headers/homepage_2.jpg");
   padding-top: 108px;
-  padding-bottom: 216px;
   margin-bottom: 60px; }
   .about-our-work header {
     margin-bottom: 24px; }

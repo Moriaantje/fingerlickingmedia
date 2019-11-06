@@ -1,11 +1,10 @@
 .page-header {
+  @include flexbox(flex, column, wrap, center, center);
   width: 100%;
   background-size: cover;
   background-position: center;
-  padding: {
-    top: $spacing-unit * 37;
-    bottom: $spacing-unit * 35;
-  }
+  height: calc(100vw / 16 * 9);
+  min-height: 500px;
   margin-bottom: $spacing-unit * 10;
   
   h1 {
@@ -32,6 +31,8 @@
   }
   
   #our-work & {
+    height: auto;
+    min-height: auto;
     background: #fff;
     padding: {
       top: $spacing-unit * 22;
