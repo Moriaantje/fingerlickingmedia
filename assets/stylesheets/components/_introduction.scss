@@ -20,6 +20,16 @@
     font-family: 'mreavesxlsanot-ultraitalic';
   }
   
+  .arrow {
+    background-image: url('/assets/images/icons/sprite.svg');
+    background-size: 100px 500px;
+    background-repeat: no-repeat;
+    color: rgba(0,0,0,.0);
+    //background-color: #FF0000;
+    background-position: center -24px;
+    padding-left: 6px;
+  }
+  
   
   @include respond-to-max(900px) {
     
@@ -31,6 +41,10 @@
     a {
       font-size: 31px;
       line-height: 37px;
+    }
+    
+    .arrow {
+      background-position: center -30px;
     }
   }
 }

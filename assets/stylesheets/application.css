@@ -512,13 +512,22 @@ a {
     font-size: 41px;
     line-height: 33px;
     font-family: 'mreavesxlsanot-ultraitalic'; }
+  .introduction .arrow {
+    background-image: url("/assets/images/icons/sprite.svg");
+    background-size: 100px 500px;
+    background-repeat: no-repeat;
+    color: rgba(0, 0, 0, 0);
+    background-position: center -24px;
+    padding-left: 6px; }
   @media only screen and (max-width: 900px) {
     .introduction h2 {
       font-size: 31px;
       line-height: 47px; }
     .introduction a {
       font-size: 31px;
-      line-height: 37px; } }
+      line-height: 37px; }
+    .introduction .arrow {
+      background-position: center -30px; } }
 
 .about-our-work {
   background-size: cover;
@@ -628,47 +637,6 @@ a {
   #our-work .our-work-grid {
     grid-template-columns: 1fr; } }
 
-.tns-outer {
-  position: relative; }
-
-.tns-ovh {
-  height: calc(100vw / 16 * 9); }
-
-.tns-controls {
-  width: 100%;
-  max-width: 1100px;
-  margin-right: auto;
-  margin-left: auto;
-  display: flex;
-  flex-direction: row;
-  flex-wrap: wrap;
-  justify-content: center;
-  align-items: center;
-  position: absolute;
-  z-index: 1;
-  height: 69px;
-  top: 50%;
-  left: 50%;
-  margin-top: -34.5px;
-  transform: translateX(-50%); }
-  .tns-controls button {
-    position: absolute;
-    width: 39px;
-    height: 69px;
-    font-size: 0;
-    outline: none;
-    border: none;
-    background-repeat: no-repeat; }
-  .tns-controls button[data-controls="prev"] {
-    left: 24px;
-    background: url("/assets/images/icons/arrow-left.svg"); }
-  .tns-controls button[data-controls="next"] {
-    right: 24px;
-    background: url("/assets/images/icons/arrow-right.svg"); }
-
-.tns-nav {
-  display: none; }
-
 .team {
   margin-bottom: 60px; }
   .team header {
@@ -774,15 +742,17 @@ footer {
       width: 30px;
       height: 30px;
       font-size: 0;
-      background-repeat: no-repeat;
-      background-position: center;
-      transition: opacity .3s; }
-    footer .social-media li a:hover {
-      opacity: 0.6; }
+      background-image: url("/assets/images/icons/sprite.svg");
+      background-size: 100px 500px;
+      background-repeat: no-repeat; }
     footer .social-media li .facebook {
-      background-image: url("/assets/images/icons/icon-facebook.svg"); }
+      background-position: center -135px; }
+      footer .social-media li .facebook:hover {
+        background-position: center -235px; }
     footer .social-media li .instagram {
-      background-image: url("/assets/images/icons/icon-instagram.svg"); }
+      background-position: center -335px; }
+      footer .social-media li .instagram:hover {
+        background-position: center -435px; }
   @media only screen and (max-width: 700px) {
     footer .wrapper {
       display: block; }

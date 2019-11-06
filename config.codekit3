@@ -226,7 +226,7 @@
 		},
 	"/assets/images/headers/homepage_1.jpg": {
 		"ft": 16384,
-		"iS": 738441,
+		"iS": 943310,
 		"jF": 0,
 		"oA": 0,
 		"oAP": "/assets/images/headers/homepage_1.jpg",
@@ -248,7 +248,7 @@
 		},
 	"/assets/images/headers/services_1.jpg": {
 		"ft": 16384,
-		"iS": 943310,
+		"iS": 738441,
 		"jF": 0,
 		"oA": 0,
 		"oAP": "/assets/images/headers/services_1.jpg",
@@ -277,21 +277,11 @@
 		"plM": 3758088159,
 		"prP": 0
 		},
-	"/assets/images/icons/icon-facebook.svg": {
+	"/assets/images/icons/sprite.svg": {
 		"ft": 2097152,
 		"miP": 0,
 		"oA": 2,
-		"oAP": "/assets/images/icons/icon-facebook.svg",
-		"oF": 0,
-		"opt": 0,
-		"plM": 3758088159,
-		"prP": 0
-		},
-	"/assets/images/icons/icon-instagram.svg": {
-		"ft": 2097152,
-		"miP": 0,
-		"oA": 2,
-		"oAP": "/assets/images/icons/icon-instagram.svg",
+		"oAP": "/assets/images/icons/sprite.svg",
 		"oF": 0,
 		"opt": 0,
 		"plM": 3758088159,

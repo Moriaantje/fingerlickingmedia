@@ -26,21 +26,25 @@ footer {
       width: $spacing-unit * 5;
       height: $spacing-unit * 5;
       font-size: 0;
+      background-image: url('/assets/images/icons/sprite.svg');
+      background-size: 100px 500px;
       background-repeat: no-repeat;
-      background-position: center;
-      transition: opacity .3s;
-    }
-    
-    a:hover {
-      opacity: 0.6;
     }
     
     .facebook {
-      background-image: url('/assets/images/icons/icon-facebook.svg');
+      background-position: center -135px;
+      
+      &:hover {
+        background-position: center -235px;
+      }
     }
     
     .instagram {
-      background-image: url('/assets/images/icons/icon-instagram.svg');
+      background-position: center -335px;
+      
+      &:hover {
+        background-position: center -435px;
+      }
     }
   }
   
