@@ -16,7 +16,7 @@
   }
   
   li {
-    font-family: 'mreavesxlsanot-heavy';
+    font-family: 'mreavesxlsanot-bold';
     font-size: 17px;
     line-height: 25px;
     margin-right: $spacing-unit * 3;
@@ -24,6 +24,23 @@
   
   li:last-child {
     margin-right: 0;
+  }
+  
+  li.selected a {
+    color: $color-primary;
+    background: #fff;
+    border-radius: 4px;
+    padding: {
+      top: $spacing-unit * 2 - 4;
+      right: $spacing-unit * 2;
+      bottom: $spacing-unit * 2 - 3;
+      left: $spacing-unit * 2;
+    }
+    text-shadow: none;
+    
+    &:hover {
+      text-decoration: none;
+    }
   }
   
   #hamburger {
@@ -35,6 +52,11 @@
     a {
       color: $color-copy;
       text-shadow: none;
+    }
+    
+    li.selected a {
+      color: $color-primary;
+      border: 1px solid #ccc;
     }
   }
 }
