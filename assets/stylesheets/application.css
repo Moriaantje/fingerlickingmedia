@@ -795,4 +795,5 @@ footer {
   padding-left: 24px; }
   @media only screen and (max-device-width: 1024px) and (orientation: landscape) {
     .wrapper {
-      padding: env(safe-area-inset-top) env(safe-area-inset-right) env(safe-area-inset-bottom) env(safe-area-inset-left); } }
+      padding-right: 48px;
+      padding-left: 48px; } }
