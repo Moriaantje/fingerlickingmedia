@@ -16,13 +16,6 @@
 		"oAP": "/.gitignore",
 		"oF": 0
 		},
-	"/about-us.html": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "/about-us.html",
-		"oF": 0
-		},
 	"/assets/fonts/mreavesxlsanot-bold-webfont.eot": {
 		"cB": 0,
 		"ft": 8192,
@@ -806,34 +799,6 @@
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "/CNAME",
-		"oF": 0
-		},
-	"/contact.html": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "/contact.html",
-		"oF": 0
-		},
-	"/index.html": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "/index.html",
-		"oF": 0
-		},
-	"/our-work.html": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "/our-work.html",
-		"oF": 0
-		},
-	"/services.html": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "/services.html",
 		"oF": 0
 		}
 	},

@@ -1,6 +1,7 @@
 .about-our-work {
   @include flexbox(flex, column, wrap, flex-start, flex-start);
   height: calc(100vw / 16 * 9);
+  min-height: 720px;
   background-size: cover;
   background-position: center;
   background-image: url('/assets/images/headers/homepage_2.jpg');
@@ -28,6 +29,13 @@
   }
   
   @include respond-to-max(900px) {
+    height: auto;
+    min-height: auto;
+    padding: {
+      top: $spacing-unit * 24;
+      bottom: $spacing-unit * 20;
+    }
+    
     h2 {
       font-size: 61px;
       line-height: 59px;

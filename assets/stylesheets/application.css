@@ -462,7 +462,7 @@ a {
   background-size: cover;
   background-position: center;
   height: calc(100vw / 16 * 9);
-  min-height: 500px;
+  min-height: 700px;
   margin-bottom: 60px; }
   .page-header h1 {
     color: #fff;
@@ -497,12 +497,17 @@ a {
   #contact .page-header {
     background-image: url("/assets/images/headers/contact_1.jpg"); }
   @media only screen and (max-width: 900px) {
-    .page-header h1 {
-      font-size: 61px;
-      line-height: 71px; }
-    #our-work .page-header p {
-      font-size: 26px;
-      line-height: 33px; } }
+    .page-header {
+      height: auto;
+      min-height: auto;
+      padding-top: 144px;
+      padding-bottom: 120px; }
+      .page-header h1 {
+        font-size: 61px;
+        line-height: 71px; }
+      #our-work .page-header p {
+        font-size: 26px;
+        line-height: 33px; } }
 
 .introduction {
   margin-bottom: 60px; }
@@ -543,6 +548,7 @@ a {
   justify-content: flex-start;
   align-items: flex-start;
   height: calc(100vw / 16 * 9);
+  min-height: 720px;
   background-size: cover;
   background-position: center;
   background-image: url("/assets/images/headers/homepage_2.jpg");
@@ -563,12 +569,17 @@ a {
     line-height: 57px;
     text-shadow: 0px 0px 40px rgba(0, 0, 0, 0.3); }
   @media only screen and (max-width: 900px) {
-    .about-our-work h2 {
-      font-size: 61px;
-      line-height: 59px; }
-    .about-our-work p {
-      font-size: 31px;
-      line-height: 47px; } }
+    .about-our-work {
+      height: auto;
+      min-height: auto;
+      padding-top: 144px;
+      padding-bottom: 120px; }
+      .about-our-work h2 {
+        font-size: 61px;
+        line-height: 59px; }
+      .about-our-work p {
+        font-size: 31px;
+        line-height: 47px; } }
 
 .clients {
   margin-bottom: 60px; }
@@ -782,3 +793,6 @@ footer {
   margin-left: auto;
   padding-right: 24px;
   padding-left: 24px; }
+  @media only screen and (max-device-width: 1024px) and (orientation: landscape) {
+    .wrapper {
+      padding: env(safe-area-inset-top) env(safe-area-inset-right) env(safe-area-inset-bottom) env(safe-area-inset-left); } }
