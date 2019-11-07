@@ -16,6 +16,13 @@
 		"oAP": "/.gitignore",
 		"oF": 0
 		},
+	"/about-us.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "/about-us.html",
+		"oF": 0
+		},
 	"/assets/fonts/mreavesxlsanot-bold-webfont.eot": {
 		"cB": 0,
 		"ft": 8192,
@@ -282,7 +289,7 @@
 		},
 	"/assets/images/logos/logo_1.png": {
 		"ft": 32768,
-		"iS": 11449,
+		"iS": 32263,
 		"oA": 0,
 		"oAP": "/assets/images/logos/logo_1.png",
 		"oF": 0,
@@ -293,7 +300,7 @@
 		},
 	"/assets/images/logos/logo_2.png": {
 		"ft": 32768,
-		"iS": 10971,
+		"iS": 16826,
 		"oA": 0,
 		"oAP": "/assets/images/logos/logo_2.png",
 		"oF": 0,
@@ -304,7 +311,7 @@
 		},
 	"/assets/images/logos/logo_3.png": {
 		"ft": 32768,
-		"iS": 7647,
+		"iS": 27741,
 		"oA": 0,
 		"oAP": "/assets/images/logos/logo_3.png",
 		"oF": 0,
@@ -315,7 +322,7 @@
 		},
 	"/assets/images/logos/logo_4.png": {
 		"ft": 32768,
-		"iS": 10857,
+		"iS": 13207,
 		"oA": 0,
 		"oAP": "/assets/images/logos/logo_4.png",
 		"oF": 0,
@@ -326,7 +333,7 @@
 		},
 	"/assets/images/logos/logo_5.png": {
 		"ft": 32768,
-		"iS": 6172,
+		"iS": 18505,
 		"oA": 0,
 		"oAP": "/assets/images/logos/logo_5.png",
 		"oF": 0,
@@ -337,7 +344,7 @@
 		},
 	"/assets/images/logos/logo_6.png": {
 		"ft": 32768,
-		"iS": 5512,
+		"iS": 22749,
 		"oA": 0,
 		"oAP": "/assets/images/logos/logo_6.png",
 		"oF": 0,
@@ -348,7 +355,7 @@
 		},
 	"/assets/images/logos/logo_7.png": {
 		"ft": 32768,
-		"iS": 8124,
+		"iS": 9084,
 		"oA": 0,
 		"oAP": "/assets/images/logos/logo_7.png",
 		"oF": 0,
@@ -359,7 +366,7 @@
 		},
 	"/assets/images/logos/logo_8.png": {
 		"ft": 32768,
-		"iS": 6274,
+		"iS": 30273,
 		"oA": 0,
 		"oAP": "/assets/images/logos/logo_8.png",
 		"oF": 0,
@@ -799,6 +806,34 @@
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "/CNAME",
+		"oF": 0
+		},
+	"/contact.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "/contact.html",
+		"oF": 0
+		},
+	"/index.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "/index.html",
+		"oF": 0
+		},
+	"/our-work.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "/our-work.html",
+		"oF": 0
+		},
+	"/services.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "/services.html",
 		"oF": 0
 		}
 	},

@@ -604,12 +604,17 @@ a {
     align-items: center;
     text-align: center;
     transition: opacity .3s; }
+    .clients .client-logo-grid li img {
+      max-width: 195px;
+      height: auto; }
   .clients .client-logo-grid li:hover {
     opacity: 0.6; }
   @media only screen and (max-width: 900px) {
     .clients h2 {
       font-size: 44px;
-      line-height: 59px; } }
+      line-height: 59px; }
+    .clients .client-logo-grid ol {
+      grid-template-columns: 1fr 1fr 1fr; } }
   @media only screen and (max-width: 768px) {
     .clients .client-logo-grid ol {
       grid-template-columns: 1fr 1fr; } }

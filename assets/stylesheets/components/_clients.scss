@@ -26,6 +26,11 @@
       @include flexbox(flex, row, wrap, center, center);
       text-align: center;
       transition: opacity .3s;
+      
+      img {
+        max-width: 195px;
+        height: auto;
+      }
     }
     
     li:hover {
@@ -38,6 +43,13 @@
     h2 {
       font-size: 44px;
       line-height: 59px;
+    }
+    
+    .client-logo-grid {
+      
+      ol {
+        grid-template-columns: 1fr 1fr 1fr;
+      }
     }
   }
   
