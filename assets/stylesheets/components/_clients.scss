@@ -25,6 +25,11 @@
     li {
       @include flexbox(flex, row, wrap, center, center);
       text-align: center;
+      transition: opacity .3s;
+    }
+    
+    li:hover {
+      opacity: 0.6;
     }
   }
   

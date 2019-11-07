@@ -602,7 +602,10 @@ a {
     flex-wrap: wrap;
     justify-content: center;
     align-items: center;
-    text-align: center; }
+    text-align: center;
+    transition: opacity .3s; }
+  .clients .client-logo-grid li:hover {
+    opacity: 0.6; }
   @media only screen and (max-width: 900px) {
     .clients h2 {
       font-size: 44px;
@@ -709,6 +712,8 @@ a {
   font-size: 26px;
   line-height: 40px;
   margin-bottom: 60px; }
+  .contact-details address {
+    margin-bottom: 12px; }
 
 .call-to-action {
   padding-top: 60px;
