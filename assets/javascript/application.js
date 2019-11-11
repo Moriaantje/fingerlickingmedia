@@ -1,5 +1,6 @@
 document.getElementById('hamburger').addEventListener("click", function(e) {
   e.preventDefault();
+  document.getElementById('hamburger').setAttribute('aria-expanded', 'true');
   document.getElementById('navigation').classList.toggle("is-active");
   document.body.classList.toggle('has-overlay');
 }, false);
