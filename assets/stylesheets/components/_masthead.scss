@@ -16,6 +16,11 @@
   
   .logo a {
     color: #fff;
+    
+    &:hover {
+      color: $color-primary;
+      text-decoration: none;
+    }
   }
   
   #our-work & {

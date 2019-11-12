@@ -339,6 +339,9 @@ a {
     font-family: 'mreavesxlsanot-ultraitalic'; }
   .masthead .logo a {
     color: #fff; }
+    .masthead .logo a:hover {
+      color: #E24A74;
+      text-decoration: none; }
   #our-work .masthead .logo a {
     color: #E24A74; }
   @media only screen and (max-width: 340px) {
