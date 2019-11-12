@@ -5,11 +5,15 @@
     margin-bottom: $spacing-unit * 4;
   }
   
-  h2 {
+  h2, p {
     display: block;
     color: #7A686D;
     font-size: 41px;
     line-height: 57px;
+  }
+  
+  strong {
+    font-family: 'mreavesxlsanot-bolditalic';
   }
   
   a {

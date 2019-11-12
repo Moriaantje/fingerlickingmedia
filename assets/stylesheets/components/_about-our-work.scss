@@ -1,11 +1,11 @@
 .about-our-work {
-  @include flexbox(flex, column, wrap, flex-start, flex-start);
+  @include flexbox(flex, column, wrap, center, center);
   height: calc(100vw / 16 * 9);
   min-height: 720px;
   background-size: cover;
   background-position: center;
   background-image: url('/assets/images/headers/homepage_2.jpg');
-  padding-top: $spacing-unit * 18;
+  padding-top: $spacing-unit * 10;
   margin-bottom: $spacing-unit * 10;
   
   header {

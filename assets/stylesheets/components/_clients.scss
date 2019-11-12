@@ -11,7 +11,7 @@
     font-family: 'mreavesxlsanot-heavy';
     font-size: 64px;
     line-height: 79px;
-  }  
+  }
   
   .client-logo-grid {
     
@@ -36,6 +36,10 @@
     li:hover {
       opacity: 0.6;
     }
+  }
+  
+  .introduction {
+    margin-top: $spacing-unit * 8;
   }
   
   @include respond-to-max(900px) {

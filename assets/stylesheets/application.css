@@ -513,11 +513,13 @@ a {
   margin-bottom: 60px; }
   .introduction header {
     margin-bottom: 24px; }
-  .introduction h2 {
+  .introduction h2, .introduction p {
     display: block;
     color: #7A686D;
     font-size: 41px;
     line-height: 57px; }
+  .introduction strong {
+    font-family: 'mreavesxlsanot-bolditalic'; }
   .introduction a {
     display: inline-block;
     color: #E24A74;
@@ -545,14 +547,14 @@ a {
   display: flex;
   flex-direction: column;
   flex-wrap: wrap;
-  justify-content: flex-start;
-  align-items: flex-start;
+  justify-content: center;
+  align-items: center;
   height: calc(100vw / 16 * 9);
   min-height: 720px;
   background-size: cover;
   background-position: center;
   background-image: url("/assets/images/headers/homepage_2.jpg");
-  padding-top: 108px;
+  padding-top: 60px;
   margin-bottom: 60px; }
   .about-our-work header {
     margin-bottom: 24px; }
@@ -609,6 +611,8 @@ a {
       height: auto; }
   .clients .client-logo-grid li:hover {
     opacity: 0.6; }
+  .clients .introduction {
+    margin-top: 48px; }
   @media only screen and (max-width: 900px) {
     .clients h2 {
       font-size: 44px;
