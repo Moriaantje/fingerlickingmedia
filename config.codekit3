@@ -191,6 +191,17 @@
 		"oAP": "/assets/fonts/mreavesxlsanot-ultraitalic-webfont.woff2",
 		"oF": 0
 		},
+	"/assets/images/avatars/anne-ruth.png": {
+		"ft": 32768,
+		"iS": 95028,
+		"oA": 0,
+		"oAP": "/assets/images/avatars/anne-ruth.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
 	"/assets/images/avatars/avatar-temp.png": {
 		"ft": 32768,
 		"iS": 20755,
@@ -199,6 +210,28 @@
 		"oF": 0,
 		"oIPL": 1,
 		"opt": 1,
+		"oT": 1,
+		"q": 100
+		},
+	"/assets/images/avatars/jeroen.png": {
+		"ft": 32768,
+		"iS": 88093,
+		"oA": 0,
+		"oAP": "/assets/images/avatars/jeroen.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"/assets/images/avatars/roos.png": {
+		"ft": 32768,
+		"iS": 83580,
+		"oA": 0,
+		"oAP": "/assets/images/avatars/roos.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
 		"oT": 1,
 		"q": 100
 		},
