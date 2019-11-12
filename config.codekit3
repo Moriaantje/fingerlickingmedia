@@ -197,8 +197,8 @@
 		"oA": 0,
 		"oAP": "/assets/images/avatars/avatar-temp.png",
 		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
+		"oIPL": 1,
+		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
@@ -226,7 +226,7 @@
 		},
 	"/assets/images/headers/homepage_1.jpg": {
 		"ft": 16384,
-		"iS": 738441,
+		"iS": 943310,
 		"jF": 0,
 		"oA": 0,
 		"oAP": "/assets/images/headers/homepage_1.jpg",
@@ -248,7 +248,7 @@
 		},
 	"/assets/images/headers/services_1.jpg": {
 		"ft": 16384,
-		"iS": 943310,
+		"iS": 738441,
 		"jF": 0,
 		"oA": 0,
 		"oAP": "/assets/images/headers/services_1.jpg",
