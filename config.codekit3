@@ -235,6 +235,17 @@
 		"oT": 1,
 		"q": 100
 		},
+	"/assets/images/avatars/tobias.png": {
+		"ft": 32768,
+		"iS": 25251,
+		"oA": 0,
+		"oAP": "/assets/images/avatars/tobias.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
 	"/assets/images/headers/about_us_1.jpg": {
 		"ft": 16384,
 		"iS": 952820,
