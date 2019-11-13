@@ -303,7 +303,7 @@
 		},
 	"/assets/images/headers/homepage_1.jpg": {
 		"ft": 16384,
-		"iS": 943310,
+		"iS": 738441,
 		"jF": 0,
 		"oA": 0,
 		"oAP": "/assets/images/headers/homepage_1.jpg",
@@ -323,12 +323,23 @@
 		"opt": 0,
 		"q": 100
 		},
-	"/assets/images/headers/services_1.jpg": {
+	"/assets/images/headers/homepage_3.jpg": {
 		"ft": 16384,
-		"iS": 738441,
+		"iS": 943310,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "/assets/images/headers/services_1.jpg",
+		"oAP": "/assets/images/headers/homepage_3.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/assets/images/headers/services_2.jpg": {
+		"ft": 16384,
+		"iS": 150408,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/assets/images/headers/services_2.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
@@ -463,6 +474,28 @@
 		"opt": 0,
 		"q": 100
 		},
+	"/assets/images/portfolio/braai.jpg": {
+		"ft": 16384,
+		"iS": 290418,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/assets/images/portfolio/braai.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/assets/images/portfolio/bras-ambassade.jpg": {
+		"ft": 16384,
+		"iS": 93326,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/assets/images/portfolio/bras-ambassade.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
 	"/assets/images/portfolio/cocomama.jpg": {
 		"ft": 16384,
 		"iS": 109295,
@@ -485,6 +518,17 @@
 		"opt": 0,
 		"q": 100
 		},
+	"/assets/images/portfolio/ecomama.jpg": {
+		"ft": 16384,
+		"iS": 214186,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/assets/images/portfolio/ecomama.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
 	"/assets/images/portfolio/hugtenburg.jpg": {
 		"ft": 16384,
 		"iS": 262474,
@@ -502,17 +546,6 @@
 		"jF": 0,
 		"oA": 0,
 		"oAP": "/assets/images/portfolio/interhouse-haarlem.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"/assets/images/portfolio/interhouse.jpg": {
-		"ft": 16384,
-		"iS": 274532,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "/assets/images/portfolio/interhouse.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
