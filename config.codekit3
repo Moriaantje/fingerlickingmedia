@@ -202,6 +202,17 @@
 		"oT": 1,
 		"q": 100
 		},
+	"/assets/images/avatars/anouk.png": {
+		"ft": 32768,
+		"iS": 92796,
+		"oA": 0,
+		"oAP": "/assets/images/avatars/anouk.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
 	"/assets/images/avatars/avatar-temp.png": {
 		"ft": 32768,
 		"iS": 20755,
@@ -218,6 +229,17 @@
 		"iS": 88093,
 		"oA": 0,
 		"oAP": "/assets/images/avatars/jeroen.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"/assets/images/avatars/marlot.png": {
+		"ft": 32768,
+		"iS": 91135,
+		"oA": 0,
+		"oAP": "/assets/images/avatars/marlot.png",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,

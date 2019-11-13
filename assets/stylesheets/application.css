@@ -516,7 +516,7 @@ a {
   margin-bottom: 60px; }
   .introduction header {
     margin-bottom: 24px; }
-  .introduction h2, .introduction p {
+  .introduction h2, .introduction p, .introduction blockquote {
     display: block;
     color: #7A686D;
     font-size: 41px;
@@ -536,6 +536,9 @@ a {
     color: rgba(0, 0, 0, 0);
     background-position: center -24px;
     padding-left: 6px; }
+  .introduction footer {
+    padding: 0;
+    margin: 0; }
   @media only screen and (max-width: 900px) {
     .introduction h2 {
       font-size: 31px;

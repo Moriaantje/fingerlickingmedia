@@ -5,7 +5,7 @@
     margin-bottom: $spacing-unit * 4;
   }
   
-  h2, p {
+  h2, p, blockquote {
     display: block;
     color: #7A686D;
     font-size: 41px;
@@ -33,6 +33,10 @@
     padding-left: $spacing-unit;
   }
   
+  footer {
+    padding: 0;
+    margin: 0;
+  }
   
   @include respond-to-max(900px) {
     
