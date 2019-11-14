@@ -683,34 +683,34 @@ a {
   font-size: 26.5px;
   line-height: 39px; }
 
-.team {
+#about-us .team {
   margin-bottom: 60px; }
-  .team header {
+  #about-us .team header {
     margin-bottom: 60px; }
-  .team h2 {
+  #about-us .team h2 {
     display: block;
     color: #393234;
     font-size: 64px;
     font-weight: 800;
     font-family: 'mreavesxlsanot-heavy';
     line-height: 79px; }
-  .team .team-profiles {
+  #about-us .team .team-profiles {
     display: grid;
     grid-template-columns: 1fr 1fr 1fr;
     grid-column-gap: 24px;
     grid-row-gap: 60px; }
-  .team .profile .picture {
+  #about-us .team .profile .picture {
     display: block;
     max-width: 100px;
     height: auto;
     margin-bottom: 12px;
     border-radius: 50%; }
-  .team .profile .name {
+  #about-us .team .profile .name {
     display: block;
     font-family: 'mreavesxlsanot-bold';
     font-size: 33px;
     line-height: 43px; }
-  .team .profile .function {
+  #about-us .team .profile .function {
     display: block;
     color: #9D8189;
     font-family: 'mreavesxlsanot-regitalic';
@@ -718,13 +718,13 @@ a {
     line-height: 25px;
     margin-bottom: 6px; }
   @media only screen and (max-width: 900px) {
-    .team h2 {
+    #about-us .team h2 {
       font-size: 44px;
       line-height: 59px; }
-    .team .team-profiles {
+    #about-us .team .team-profiles {
       grid-template-columns: 1fr 1fr; } }
   @media only screen and (max-width: 700px) {
-    .team .team-profiles {
+    #about-us .team .team-profiles {
       grid-template-columns: 1fr;
       grid-row-gap: 36px; } }
 

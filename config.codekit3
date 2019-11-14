@@ -224,6 +224,17 @@
 		"oT": 1,
 		"q": 100
 		},
+	"/assets/images/avatars/emily.png": {
+		"ft": 32768,
+		"iS": 88776,
+		"oA": 0,
+		"oAP": "/assets/images/avatars/emily.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
 	"/assets/images/avatars/evianne.png": {
 		"ft": 32768,
 		"iS": 85682,
@@ -747,6 +758,19 @@
 		"oS": 0,
 		"uL": 1
 		},
+	"/assets/stylesheets/components/_about-us.scss": {
+		"aP": 0,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 0,
+		"oA": 1,
+		"oAP": "/assets/stylesheets/components/_about-us.css",
+		"oF": 0,
+		"oS": 0,
+		"uL": 1
+		},
 	"/assets/stylesheets/components/_call-to-action.scss": {
 		"aP": 0,
 		"bl": 0,
@@ -886,19 +910,6 @@
 		"ma": 0,
 		"oA": 1,
 		"oAP": "/assets/stylesheets/components/_services.css",
-		"oF": 0,
-		"oS": 0,
-		"uL": 1
-		},
-	"/assets/stylesheets/components/_team.scss": {
-		"aP": 0,
-		"bl": 0,
-		"dP": 10,
-		"dS": 0,
-		"ft": 4,
-		"ma": 0,
-		"oA": 1,
-		"oAP": "/assets/stylesheets/components/_team.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
