@@ -679,6 +679,10 @@ a {
   #our-work .our-work-grid {
     grid-template-columns: 1fr; } }
 
+#about-us .introduction p {
+  font-size: 26.5px;
+  line-height: 39px; }
+
 .team {
   margin-bottom: 60px; }
   .team header {
