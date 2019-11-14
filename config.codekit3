@@ -224,6 +224,17 @@
 		"oT": 1,
 		"q": 100
 		},
+	"/assets/images/avatars/emily.png": {
+		"ft": 32768,
+		"iS": 88776,
+		"oA": 0,
+		"oAP": "/assets/images/avatars/emily.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
 	"/assets/images/avatars/evianne.png": {
 		"ft": 32768,
 		"iS": 85682,
@@ -347,7 +358,7 @@
 		},
 	"/assets/images/headers/services_1.jpg": {
 		"ft": 16384,
-		"iS": 981719,
+		"iS": 1091864,
 		"jF": 0,
 		"oA": 0,
 		"oAP": "/assets/images/headers/services_1.jpg",
@@ -498,7 +509,7 @@
 		},
 	"/assets/images/portfolio/braai.jpg": {
 		"ft": 16384,
-		"iS": 290418,
+		"iS": 254914,
 		"jF": 0,
 		"oA": 0,
 		"oAP": "/assets/images/portfolio/braai.jpg",
