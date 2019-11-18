@@ -612,9 +612,10 @@ a {
     justify-content: center;
     align-items: center;
     text-align: center;
+    max-width: 195px;
     transition: opacity .3s; }
     .clients .client-logo-grid li img {
-      max-width: 195px;
+      max-width: 100%;
       height: auto; }
   .clients .client-logo-grid li:hover {
     opacity: 0.6; }
