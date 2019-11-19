@@ -191,141 +191,141 @@
 		"oAP": "/assets/fonts/mreavesxlsanot-ultraitalic-webfont.woff2",
 		"oF": 0
 		},
-	"/assets/images/avatars/anne-ruth.png": {
-		"ft": 32768,
-		"iS": 95028,
+	"/assets/images/avatars/anne-ruth.jpg": {
+		"ft": 16384,
+		"iS": 16019,
+		"jF": 0,
 		"oA": 0,
-		"oAP": "/assets/images/avatars/anne-ruth.png",
+		"oAP": "/assets/images/avatars/anne-ruth.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
-		"oT": 1,
 		"q": 100
 		},
-	"/assets/images/avatars/anouk.png": {
-		"ft": 32768,
-		"iS": 92796,
+	"/assets/images/avatars/anouk.jpg": {
+		"ft": 16384,
+		"iS": 18848,
+		"jF": 0,
 		"oA": 0,
-		"oAP": "/assets/images/avatars/anouk.png",
+		"oAP": "/assets/images/avatars/anouk.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
-		"oT": 1,
 		"q": 100
 		},
-	"/assets/images/avatars/avatar-temp.png": {
-		"ft": 32768,
-		"iS": 20755,
+	"/assets/images/avatars/avatar-temp.jpg": {
+		"ft": 16384,
+		"iS": 3365,
+		"jF": 0,
 		"oA": 0,
-		"oAP": "/assets/images/avatars/avatar-temp.png",
-		"oF": 0,
-		"oIPL": 1,
-		"opt": 1,
-		"oT": 1,
-		"q": 100
-		},
-	"/assets/images/avatars/emily.png": {
-		"ft": 32768,
-		"iS": 88776,
-		"oA": 0,
-		"oAP": "/assets/images/avatars/emily.png",
+		"oAP": "/assets/images/avatars/avatar-temp.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
-		"oT": 1,
 		"q": 100
 		},
-	"/assets/images/avatars/evianne.png": {
-		"ft": 32768,
-		"iS": 85682,
+	"/assets/images/avatars/emily.jpg": {
+		"ft": 16384,
+		"iS": 18898,
+		"jF": 0,
 		"oA": 0,
-		"oAP": "/assets/images/avatars/evianne.png",
+		"oAP": "/assets/images/avatars/emily.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
-		"oT": 1,
 		"q": 100
 		},
-	"/assets/images/avatars/jeroen.png": {
-		"ft": 32768,
-		"iS": 88093,
+	"/assets/images/avatars/evianne.jpg": {
+		"ft": 16384,
+		"iS": 14997,
+		"jF": 0,
 		"oA": 0,
-		"oAP": "/assets/images/avatars/jeroen.png",
+		"oAP": "/assets/images/avatars/evianne.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
-		"oT": 1,
 		"q": 100
 		},
-	"/assets/images/avatars/marlot.png": {
-		"ft": 32768,
-		"iS": 91135,
+	"/assets/images/avatars/jeroen.jpg": {
+		"ft": 16384,
+		"iS": 16668,
+		"jF": 0,
 		"oA": 0,
-		"oAP": "/assets/images/avatars/marlot.png",
+		"oAP": "/assets/images/avatars/jeroen.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
-		"oT": 1,
 		"q": 100
 		},
-	"/assets/images/avatars/remko.png": {
-		"ft": 32768,
-		"iS": 87007,
+	"/assets/images/avatars/marlot.jpg": {
+		"ft": 16384,
+		"iS": 17495,
+		"jF": 0,
 		"oA": 0,
-		"oAP": "/assets/images/avatars/remko.png",
+		"oAP": "/assets/images/avatars/marlot.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
-		"oT": 1,
 		"q": 100
 		},
-	"/assets/images/avatars/rianne.png": {
-		"ft": 32768,
-		"iS": 68077,
+	"/assets/images/avatars/remko.jpg": {
+		"ft": 16384,
+		"iS": 15030,
+		"jF": 0,
 		"oA": 0,
-		"oAP": "/assets/images/avatars/rianne.png",
+		"oAP": "/assets/images/avatars/remko.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
-		"oT": 1,
 		"q": 100
 		},
-	"/assets/images/avatars/roos.png": {
-		"ft": 32768,
-		"iS": 83580,
+	"/assets/images/avatars/rianne.jpg": {
+		"ft": 16384,
+		"iS": 13225,
+		"jF": 0,
 		"oA": 0,
-		"oAP": "/assets/images/avatars/roos.png",
+		"oAP": "/assets/images/avatars/rianne.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
-		"oT": 1,
 		"q": 100
 		},
-	"/assets/images/avatars/rosanna.png": {
-		"ft": 32768,
-		"iS": 91712,
+	"/assets/images/avatars/roos.jpg": {
+		"ft": 16384,
+		"iS": 15866,
+		"jF": 0,
 		"oA": 0,
-		"oAP": "/assets/images/avatars/rosanna.png",
+		"oAP": "/assets/images/avatars/roos.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
-		"oT": 1,
 		"q": 100
 		},
-	"/assets/images/avatars/tobias.png": {
-		"ft": 32768,
-		"iS": 25251,
+	"/assets/images/avatars/rosanna.jpg": {
+		"ft": 16384,
+		"iS": 17071,
+		"jF": 0,
 		"oA": 0,
-		"oAP": "/assets/images/avatars/tobias.png",
+		"oAP": "/assets/images/avatars/rosanna.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
-		"oT": 1,
+		"q": 100
+		},
+	"/assets/images/avatars/tobias.jpg": {
+		"ft": 16384,
+		"iS": 6029,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/assets/images/avatars/tobias.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
 		"q": 100
 		},
 	"/assets/images/headers/about_us_1.jpg": {
 		"ft": 16384,
-		"iS": 952820,
+		"iS": 304383,
 		"jF": 0,
 		"oA": 0,
 		"oAP": "/assets/images/headers/about_us_1.jpg",
@@ -336,7 +336,7 @@
 		},
 	"/assets/images/headers/contact_1.jpg": {
 		"ft": 16384,
-		"iS": 1218816,
+		"iS": 454935,
 		"jF": 0,
 		"oA": 0,
 		"oAP": "/assets/images/headers/contact_1.jpg",
@@ -347,7 +347,7 @@
 		},
 	"/assets/images/headers/homepage_1.jpg": {
 		"ft": 16384,
-		"iS": 738441,
+		"iS": 255973,
 		"jF": 0,
 		"oA": 0,
 		"oAP": "/assets/images/headers/homepage_1.jpg",
@@ -358,7 +358,7 @@
 		},
 	"/assets/images/headers/homepage_2.jpg": {
 		"ft": 16384,
-		"iS": 1175506,
+		"iS": 420126,
 		"jF": 0,
 		"oA": 0,
 		"oAP": "/assets/images/headers/homepage_2.jpg",
@@ -369,7 +369,7 @@
 		},
 	"/assets/images/headers/homepage_3.jpg": {
 		"ft": 16384,
-		"iS": 943310,
+		"iS": 303743,
 		"jF": 0,
 		"oA": 0,
 		"oAP": "/assets/images/headers/homepage_3.jpg",
@@ -380,7 +380,7 @@
 		},
 	"/assets/images/headers/services_1.jpg": {
 		"ft": 16384,
-		"iS": 981719,
+		"iS": 450765,
 		"jF": 0,
 		"oA": 0,
 		"oAP": "/assets/images/headers/services_1.jpg",
@@ -391,7 +391,7 @@
 		},
 	"/assets/images/headers/services_2.jpg": {
 		"ft": 16384,
-		"iS": 150408,
+		"iS": 225673,
 		"jF": 0,
 		"oA": 0,
 		"oAP": "/assets/images/headers/services_2.jpg",
@@ -945,6 +945,19 @@
 		"ma": 0,
 		"oA": 1,
 		"oAP": "/assets/stylesheets/components/_tiny-slider.css",
+		"oF": 0,
+		"oS": 0,
+		"uL": 1
+		},
+	"/assets/stylesheets/components/_video-header.scss": {
+		"aP": 0,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 0,
+		"oA": 1,
+		"oAP": "/assets/stylesheets/components/_video-header.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1

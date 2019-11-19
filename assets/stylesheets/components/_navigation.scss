@@ -47,18 +47,6 @@
   #hamburger {
     display: none;
   }
-  
-  #our-work & {
-  
-    a {
-      color: $color-copy;
-      text-shadow: none;
-    }
-    
-    li.selected a {
-      color: $color-primary;
-    }
-  }
 }
 
 @include respond-to-max(768px) {
@@ -99,14 +87,6 @@
       
       &:after {
         bottom: 0;
-      }
-      
-      #our-work & {
-        span,
-        &:before,
-        &:after {
-          background: #222;
-        }
       }
     }
   }
@@ -157,22 +137,6 @@
       &:after {
         transform: rotate(-45deg);
         bottom: ($spacing-unit + 2);
-      }
-      
-      #our-work & {
-        
-        span,
-        &:before,
-        &:after {
-          background: #fff;
-        }
-      }
-    }
-    
-    #our-work & {
-      
-      a {
-        color: #fff;
       }
     }
   }

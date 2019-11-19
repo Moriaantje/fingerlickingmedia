@@ -31,13 +31,11 @@
   }
   
   #our-work & {
+    display: block;
     height: auto;
     min-height: auto;
     background: #fff;
-    padding: {
-      top: $spacing-unit * 22;
-      bottom: 0;
-    }
+    padding-top: $spacing-unit * 10;
     
     h1, p {
       color: $color-copy;
@@ -73,6 +71,10 @@
     }
     
     #our-work & {
+      padding: {
+        top: $spacing-unit * 10;
+        bottom: 0;
+      }
       
       p {
         font-size: 26px;

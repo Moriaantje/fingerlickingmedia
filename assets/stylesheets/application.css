@@ -343,8 +343,8 @@ a {
     .masthead .logo a:hover {
       color: #E24A74;
       text-decoration: none; }
-  #our-work .masthead .logo a {
-    color: #E24A74; }
+  #our-work .masthead {
+    z-index: 2; }
   @media only screen and (max-width: 340px) {
     .masthead .logo {
       font-size: 21px; } }
@@ -388,11 +388,6 @@ a {
       text-decoration: none; }
   #navigation #hamburger {
     display: none; }
-  #our-work #navigation a {
-    color: #393234;
-    text-shadow: none; }
-  #our-work #navigation li.selected a {
-    color: #E24A74; }
 
 @media only screen and (max-width: 768px) {
   #navigation ul {
@@ -421,8 +416,6 @@ a {
       top: 0; }
     #navigation #hamburger:after {
       bottom: 0; }
-    #our-work #navigation #hamburger span, #our-work #navigation #hamburger:before, #our-work #navigation #hamburger:after {
-      background: #222; }
   #navigation.is-active a {
     color: #fff; }
   #navigation.is-active ul {
@@ -450,11 +443,7 @@ a {
     transform: rotate(45deg); }
   #navigation.is-active #hamburger:after {
     transform: rotate(-45deg);
-    bottom: 8px; }
-  #our-work #navigation.is-active #hamburger span, #our-work #navigation.is-active #hamburger:before, #our-work #navigation.is-active #hamburger:after {
-    background: #fff; }
-  #our-work #navigation.is-active a {
-    color: #fff; } }
+    bottom: 8px; } }
 
 .page-header {
   display: flex;
@@ -484,11 +473,11 @@ a {
   #services .page-header {
     background-image: url("/assets/images/headers/services_1.jpg"); }
   #our-work .page-header {
+    display: block;
     height: auto;
     min-height: auto;
     background: #fff;
-    padding-top: 132px;
-    padding-bottom: 0; }
+    padding-top: 60px; }
     #our-work .page-header h1, #our-work .page-header p {
       color: #393234;
       text-shadow: none; }
@@ -509,9 +498,17 @@ a {
       .page-header h1 {
         font-size: 61px;
         line-height: 71px; }
-      #our-work .page-header p {
-        font-size: 26px;
-        line-height: 33px; } }
+      #our-work .page-header {
+        padding-top: 60px;
+        padding-bottom: 0; }
+        #our-work .page-header p {
+          font-size: 26px;
+          line-height: 33px; } }
+
+.video-header video {
+  display: block;
+  width: 100vw;
+  height: calc(100vw / 16 * 9); }
 
 .introduction {
   margin-bottom: 60px; }

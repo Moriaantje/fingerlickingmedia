@@ -25,10 +25,7 @@
   }
   
   #our-work & {
-    
-    .logo a {
-      color: $color-primary;
-    }
+    z-index: 2;
   }
   
   @include respond-to-max(340px) {
