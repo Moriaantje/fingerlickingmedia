@@ -257,6 +257,17 @@
 		"opt": 0,
 		"q": 100
 		},
+	"/assets/images/avatars/joey.jpg": {
+		"ft": 16384,
+		"iS": 8409,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/assets/images/avatars/joey.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
 	"/assets/images/avatars/marlot.jpg": {
 		"ft": 16384,
 		"iS": 17495,
@@ -703,7 +714,7 @@
 		"oS": 3
 		},
 	"/assets/stylesheets/application.scss": {
-		"aP": 0,
+		"aP": 1,
 		"bl": 0,
 		"dP": 10,
 		"dS": 0,
@@ -716,7 +727,7 @@
 		"uL": 1
 		},
 	"/assets/stylesheets/base/_outline.scss": {
-		"aP": 0,
+		"aP": 1,
 		"bl": 0,
 		"dP": 10,
 		"dS": 0,
@@ -729,7 +740,7 @@
 		"uL": 1
 		},
 	"/assets/stylesheets/base/_reset.scss": {
-		"aP": 0,
+		"aP": 1,
 		"bl": 0,
 		"dP": 10,
 		"dS": 0,
@@ -742,7 +753,7 @@
 		"uL": 1
 		},
 	"/assets/stylesheets/base/_typography.scss": {
-		"aP": 0,
+		"aP": 1,
 		"bl": 0,
 		"dP": 10,
 		"dS": 0,
@@ -755,7 +766,7 @@
 		"uL": 1
 		},
 	"/assets/stylesheets/base/_variables.scss": {
-		"aP": 0,
+		"aP": 1,
 		"bl": 0,
 		"dP": 10,
 		"dS": 0,
@@ -768,7 +779,7 @@
 		"uL": 1
 		},
 	"/assets/stylesheets/components/_about-our-work.scss": {
-		"aP": 0,
+		"aP": 1,
 		"bl": 0,
 		"dP": 10,
 		"dS": 0,
@@ -781,7 +792,7 @@
 		"uL": 1
 		},
 	"/assets/stylesheets/components/_about-us.scss": {
-		"aP": 0,
+		"aP": 1,
 		"bl": 0,
 		"dP": 10,
 		"dS": 0,
@@ -794,7 +805,7 @@
 		"uL": 1
 		},
 	"/assets/stylesheets/components/_call-to-action.scss": {
-		"aP": 0,
+		"aP": 1,
 		"bl": 0,
 		"dP": 10,
 		"dS": 0,
@@ -807,7 +818,7 @@
 		"uL": 1
 		},
 	"/assets/stylesheets/components/_clients.scss": {
-		"aP": 0,
+		"aP": 1,
 		"bl": 0,
 		"dP": 10,
 		"dS": 0,
@@ -820,7 +831,7 @@
 		"uL": 1
 		},
 	"/assets/stylesheets/components/_contact-details.scss": {
-		"aP": 0,
+		"aP": 1,
 		"bl": 0,
 		"dP": 10,
 		"dS": 0,
@@ -833,7 +844,7 @@
 		"uL": 1
 		},
 	"/assets/stylesheets/components/_content.scss": {
-		"aP": 0,
+		"aP": 1,
 		"bl": 0,
 		"dP": 10,
 		"dS": 0,
@@ -846,7 +857,7 @@
 		"uL": 1
 		},
 	"/assets/stylesheets/components/_footer.scss": {
-		"aP": 0,
+		"aP": 1,
 		"bl": 0,
 		"dP": 10,
 		"dS": 0,
@@ -859,7 +870,7 @@
 		"uL": 1
 		},
 	"/assets/stylesheets/components/_introduction.scss": {
-		"aP": 0,
+		"aP": 1,
 		"bl": 0,
 		"dP": 10,
 		"dS": 0,
@@ -872,7 +883,7 @@
 		"uL": 1
 		},
 	"/assets/stylesheets/components/_masthead.scss": {
-		"aP": 0,
+		"aP": 1,
 		"bl": 0,
 		"dP": 10,
 		"dS": 0,
@@ -885,7 +896,7 @@
 		"uL": 1
 		},
 	"/assets/stylesheets/components/_navigation.scss": {
-		"aP": 0,
+		"aP": 1,
 		"bl": 0,
 		"dP": 10,
 		"dS": 0,
@@ -898,7 +909,7 @@
 		"uL": 1
 		},
 	"/assets/stylesheets/components/_our-work.scss": {
-		"aP": 0,
+		"aP": 1,
 		"bl": 0,
 		"dP": 10,
 		"dS": 0,
@@ -911,7 +922,7 @@
 		"uL": 1
 		},
 	"/assets/stylesheets/components/_page-header.scss": {
-		"aP": 0,
+		"aP": 1,
 		"bl": 0,
 		"dP": 10,
 		"dS": 0,
@@ -924,7 +935,7 @@
 		"uL": 1
 		},
 	"/assets/stylesheets/components/_services.scss": {
-		"aP": 0,
+		"aP": 1,
 		"bl": 0,
 		"dP": 10,
 		"dS": 0,
@@ -937,7 +948,7 @@
 		"uL": 1
 		},
 	"/assets/stylesheets/components/_tiny-slider.scss": {
-		"aP": 0,
+		"aP": 1,
 		"bl": 0,
 		"dP": 10,
 		"dS": 0,
@@ -950,7 +961,7 @@
 		"uL": 1
 		},
 	"/assets/stylesheets/components/_video-header.scss": {
-		"aP": 0,
+		"aP": 1,
 		"bl": 0,
 		"dP": 10,
 		"dS": 0,
@@ -963,7 +974,7 @@
 		"uL": 1
 		},
 	"/assets/stylesheets/utilities/helpers/_wrappers.scss": {
-		"aP": 0,
+		"aP": 1,
 		"bl": 0,
 		"dP": 10,
 		"dS": 0,
@@ -976,7 +987,7 @@
 		"uL": 1
 		},
 	"/assets/stylesheets/utilities/mixins/_flexbox.scss": {
-		"aP": 0,
+		"aP": 1,
 		"bl": 0,
 		"dP": 10,
 		"dS": 0,
@@ -989,7 +1000,7 @@
 		"uL": 1
 		},
 	"/assets/stylesheets/utilities/mixins/_respond-to.scss": {
-		"aP": 0,
+		"aP": 1,
 		"bl": 0,
 		"dP": 10,
 		"dS": 0,
@@ -1002,7 +1013,7 @@
 		"uL": 1
 		},
 	"/assets/stylesheets/utilities/mixins/_wrappers.scss": {
-		"aP": 0,
+		"aP": 1,
 		"bl": 0,
 		"dP": 10,
 		"dS": 0,
@@ -1015,7 +1026,7 @@
 		"uL": 1
 		},
 	"/assets/stylesheets/vendor/_tiny-slider.scss": {
-		"aP": 0,
+		"aP": 1,
 		"bl": 0,
 		"dP": 10,
 		"dS": 0,
@@ -1086,7 +1097,7 @@
 	"alwaysUseExternalServer": 0,
 	"animateCSSInjections": 1,
 	"autoBuildNewItems": 1,
-	"autoprefixerEnableIEGrid": 0,
+	"autoprefixerEnableIEGrid": 1,
 	"babel7PresetType": 1,
 	"babelAllowRCFiles": 0,
 	"babelAuxiliaryCommentAfter": "",
@@ -3005,7 +3016,7 @@
 		"debugStyle": 0,
 		"decimalPrecision": 10,
 		"outputStyle": 0,
-		"shouldRunAutoprefixer": 0,
+		"shouldRunAutoprefixer": 1,
 		"shouldRunBless": 0,
 		"useLibsass": 1
 		},
