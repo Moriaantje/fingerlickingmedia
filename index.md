@@ -2,7 +2,7 @@
 title: Home
 menu_order: 1_
 layout: default
-path: home
+path: ""
 ---
 <header class="page-header">
   <div class="wrapper">

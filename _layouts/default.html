@@ -10,7 +10,7 @@
     
     <link rel="stylesheet" href='/assets/stylesheets/application.css'>
   </head>
-  <body id="{{ page.path }}">
+  <body id="{{ page.name | replace: ".md" "" }}">
     <header class="masthead">
       <div class="wrapper">
         <h1 class="logo">
