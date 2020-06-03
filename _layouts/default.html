@@ -45,7 +45,8 @@
   <div class="wrapper">
     <section class="call-to-action">
       <header>
-        <h2>Benieuwd naar <br /> de mogelijkheden?</h2>
+        {% assign tagline = "Benieuwd naar <br /> de mogelijkheden?, Interesse?" | split: ", " | random %}
+        <h2>{{ tagline }}</h2>
       </header>
   
       <p>Bel ons op: <a href="tel:023-8200260">023-8200260</a></p>
