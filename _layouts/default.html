@@ -24,7 +24,7 @@
             {% if page.path == menupage.path %}
               {% assign selected = "selected" %}
             {% endif %}
-            <li class="{{ selected }}"><a href="{{ menupage.url | absolute_url }}">{{ menupage.title }}</a></li>
+            <li class="{{ selected }}"><a href="/{{ menupage.path }}">{{ menupage.title }}</a></li>
             {% assign selected = "" %}
             {% endfor %}
           </ul>
