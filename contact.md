@@ -1,0 +1,23 @@
+---
+title: Contact
+menu_order: 5_
+layout: default
+path: contact
+no_call_to_action: true
+---
+<header class="page-header">
+  <div class="wrapper">
+    <h1>Contact</h1>
+  </div>
+</header>
+
+<div class="wrapper">
+  <section class="contact-details">
+    <address>
+      Groot Heiligland 26b <br />
+      2011 ER Haarlem
+    </address>
+    <a href="tel:023-8200260">023-8200260</a> <br />
+    <a href="mailto:info@fingerlicking.media">info@fingerlicking.media</a>
+  </section>
+</div> 

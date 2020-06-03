@@ -1,0 +1,110 @@
+---
+title: Over Ons
+menu_order: 4_
+layout: default
+path: about-us
+---
+<header class="page-header">
+  <div class="wrapper">
+    <h1>Over ons</h1>
+  </div>
+</header>
+
+<div class="wrapper">
+  <div class="introduction">
+    <p>Finger Licking Media is ontstaan vanuit het restaurantplatform Eet.nu. Maandelijks helpt Eet.nu 1,5 miljoen mensen met het zoeken naar het juiste restaurant en het reserveren van een tafel. Daarnaast nemen wij vanuit Eet.nu voor een groot aantal restaurants hun volledige online marketing uit handen. Van websites tot fotografie en van social media beheer tot social advertising. Zo kregen wij van bedrijven uit andere branches de vraag om hen ook te helpen met hun online marketing. Hieruit is Finger Licking Media ontstaan en door de gekozen naam toch nog een link naar onze roots.</p>
+  </div>
+  
+  <section class="team">
+    <header>
+      <h2>Het Team</h2>
+    </header>
+    
+    <div class="team-profiles">
+      <section class="profile">
+        <img class="picture" src="/assets/images/avatars/anne-ruth.jpg" />
+        <h3 class="name">Anne-Ruth</h3>
+        <span class="function">Marketing & Content Manager</span>
+        <p>Dankzij haar grote kennis van verschillende branches, haar creatieve geest en haar talent voor management en organisatie is Anne-Ruth uitgegroeid tot een onmisbare schakel binnen het bedrijf.</p>
+      </section>
+      
+      <section class="profile">
+        <img class="picture" src="/assets/images/avatars/tobias.jpg" />
+        <h3 class="name">Tobias</h3>
+        <span class="function">Account Manager</span>
+        <p>Tobias is een specialist op het gebied van fieldmarketing en weet precies wat een onderneming nodig heeft op online gebied. Tobias is resultaatgericht en zeker niet bekend met het woord ‘opgeven’.</p>
+      </section>
+      
+      <section class="profile">
+        <img class="picture" src="/assets/images/avatars/marlot.jpg" />
+        <h3 class="name">Marlot</h3>
+        <span class="function">Marketing & Content Manager</span>
+        <p>Marlot heeft altijd alles op een rijtje en heeft talent voor planning en organisatie. Aan Marlot gaat niets voorbij, ze is betrokken en volgt alles wat er om haar heen gebeurt. Ook voor alle ins en outs over fotografie moet je bij Marlot zijn!</p>
+      </section>
+      
+      <section class="profile">
+        <img class="picture" src="/assets/images/avatars/roos.jpg" />
+        <h3 class="name">Roos</h3>
+        <span class="function">Content Marketeer</span>
+        <p>Roos stelt de klant centraal, luistert goed naar je wensen en eisen en komt er op die manier precies achter waar je naar op zoek bent. Ze heeft oog voor detail en gebruikt haar gevoel voor stijl om voor elke klant de mooiste content te creëren.</p>
+      </section>
+      
+      <section class="profile">
+        <img class="picture" src="/assets/images/avatars/rosanna.jpg" />
+        <h3 class="name">Rosanna</h3>
+        <span class="function">Content Marketeer</span>
+        <p>Rosanna is altijd enthousiast en creëert vaak spontane content die je doet lachen. Het creëren van een unieke tone of voice is voor Rosa een fluitje van een cent. Snelle en doeltreffende service is waar zij voor staat!</p>
+      </section>
+      
+      <section class="profile">
+        <img class="picture" src="/assets/images/avatars/jeroen.jpg" />
+        <h3 class="name">Jeroen</h3>
+        <span class="function">Big Boss</span>
+        <p>Jeroen, de big boss, is het brein achter de organisatie. Hij is een ondernemer in hart en nieren en onze onuitputtelijke bron van ideeën. Hij is creatief, denkt praktisch en stelt doelen op die uitvoerbaar en haalbaar zijn.</p>
+      </section>
+      
+      <section class="profile">
+        <img class="picture" src="/assets/images/avatars/evianne.jpg" />
+        <h3 class="name">Evianne</h3>
+        <span class="function">Content Marketeer / Graphic Designer</span>
+        <p>Evianne is onze ster op het gebied van design en grafische vormgeving. Ze weet voor klanten altijd doeltreffende content te creëren en originele concepten te ontwikkelen.</p>
+      </section>
+      
+      <section class="profile">
+        <img class="picture" src="/assets/images/avatars/remko.jpg" />
+        <h3 class="name">Remko</h3>
+        <span class="function">Designer</span>
+        <p>Als designer zorgt Remko er al 7 jaar voor dat Eet.nu en de websites van de klanten er altijd strak bij staan. Woorden, afspraken en opdrachten vertalen naar mooie websites is zijn specialiteit.</p>
+      </section>
+      
+      <section class="profile">
+        <img class="picture" src="/assets/images/avatars/emily.jpg" />
+        <h3 class="name">Emily</h3>
+        <span class="function">Content Marketeer</span>
+        <p>Emily is van alle markten thuis! De content die ze creëert is origineel, doeltreffend en humoristisch op de juiste momenten en ook het perfecte plaatje schieten zit bij Emily in het pakket.</p>
+      </section>
+      
+      <section class="profile">
+        <img class="picture" src="/assets/images/avatars/joey.jpg" />
+        <h3 class="name">Joey</h3>
+        <span class="function">Front-end Developer</span>
+        <p>Een goed werkende website bouwen kan nog lastig zijn, maar niet voor Joey! Als developer bouwt hij dagelijks websites, lost bugs op en zoekt naar nieuwe kansen in het ontwikkelen van websites.</p>
+      </section>
+      
+      <section class="profile">
+        <img class="picture" src="/assets/images/avatars/anouk.jpg" />
+        <h3 class="name">Anouk</h3>
+        <span class="function">Content Marketeer</span>
+        <p>Anouk gaat een uitdaging niet uit de weg en durft risico’s te nemen in het belang van het succes van het bedrijf. Haar content is verrassend en vlot: ze weet zelfs met de meest bijzondere situaties wel raad.</p>
+      </section>
+      
+      <section class="profile">
+        <img class="picture" src="/assets/images/avatars/rianne.jpg" />
+        <h3 class="name">Rianne</h3>
+        <span class="function">Copywriter</span>
+        <p>Als vliegende keep zul je Rianne altijd anderen uit de brand zien helpen. Als copywriter tovert ze de leukste content uit haar mouw, welke elke keer weer verrast. Als collega zorgt ze er voor dat iedereen op de werkvloer zich goed voelt.</p>
+      </section>
+    </div>
+  </section>
+</div> 
+      

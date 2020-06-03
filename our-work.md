@@ -1,0 +1,82 @@
+---
+title: Ons Werk
+menu_order: 3
+layout: default
+path: our-work
+---
+<div class="video-header">
+  <video autoplay muted playsinline loop>
+    <source src="/assets/videos/1.mp4" type="video/mp4">
+  </video>
+</div>
+
+<header class="page-header">
+  <div class="wrapper">
+    <h1>Ons werk</h1>
+    <p>Een belangrijk onderdeel van marketing is beeld. Een bericht met beeld maakt de boodschap veel aantrekkelijker. Met verschillende filmmakers en fotografen in huis, creëren wij voor ieder merk passende visuele content. Zo springt jouw content écht in het oog!</p>
+  </div>
+</header>
+
+<div class="wrapper">
+  <div class="our-work-grid">
+    <div class="work-item">
+      <img src="/assets/images/portfolio/ambassade.jpg" alt="Foto van het Hotel Ambassade pand" />
+      Hotel Ambassade
+    </div>
+    
+    <div class="work-item">
+      <img src="/assets/images/portfolio/czaar.jpg" alt="Foto van de bar in Czaar Amsterdam" />
+      Czaar Amsterdam
+    </div>
+    
+    <div class="work-item">
+      <img src="/assets/images/portfolio/hugtenburg.jpg" alt="Foto van Hugtenburg & de Vries, lopend" />
+      Hugtenburg & De Vries
+    </div>
+    
+    <div class="work-item">
+      <img src="/assets/images/portfolio/mlhr.jpg" alt="Foto van ontbijt op bed bij Hotel ML" />
+      Hotel ML
+    </div>
+    
+    <div class="work-item">
+      <img src="/assets/images/portfolio/interhouse-haarlem.jpg" alt="Foto van een Interhouse Haarlem pand" />
+      Interhouse Haarlem
+    </div>
+    
+    <div class="work-item">
+      <img src="/assets/images/portfolio/soofdrinks.jpg" alt="Foto van verschillende Soof Drinks producten" />
+      Soof Drinks
+    </div>
+    
+    <div class="work-item">
+      <img src="/assets/images/portfolio/cocomama.jpg" alt="Foto van een bed in het Cocomama hostel" />
+      Cocomama
+    </div>
+    
+    <div class="work-item">
+      <img src="/assets/images/portfolio/villacoucou.jpg" alt="Foto binnen in het restaurant van Villa Coucou" />
+      Villa Coucou
+    </div>
+    
+    <div class="work-item">
+      <img src="/assets/images/portfolio/ml.jpg" alt="Foto van een van de gerechten bij Restaurant ML" />
+      Restaurant ML
+    </div>
+    
+    <div class="work-item">
+      <img src="/assets/images/portfolio/ecomama.jpg" alt="Foto van een van de gedeelde ruimtes in het Ecomama hotel" />
+      Ecomama
+    </div>
+    
+    <div class="work-item">
+      <img src="/assets/images/portfolio/braai.jpg" alt="Foto van een van de gerechten bij Braai Amsterdam" />
+      Braai Amsterdam
+    </div>
+    
+    <div class="work-item">
+      <img src="/assets/images/portfolio/bras-ambassade.jpg" alt="Foto van een van de gerechten bij Brasserie Ambassade" />
+      Brasserie Ambassade
+    </div>
+  </div>
+</div> 

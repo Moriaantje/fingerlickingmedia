@@ -1,0 +1,69 @@
+---
+title: Diensten
+menu_order: 2
+layout: default
+path: services
+---
+<header class="page-header">
+  <div class="wrapper">
+    <h1 lang="en">It tastes so good, you'll want the online recipe</h1>
+  </div>
+</header>
+
+<div class="wrapper">
+  <section class="introduction">
+    <header>
+      <h2>Wij kunnen al het werk uit handen nemen. Van een social media strategie tot video's op maat en van social advertising tot de juiste influencers voor jouw merk. In ons voorstel op maat bepalen we hoe we jouw doelgroep gaan bereiken, met welke content we dat gaan doen en de frequentie van de postings.</h2>
+    </header>
+  </section>
+  
+  <div class="services">
+    <section class="single-service">
+      <header>
+        <h2>Strategie</h2>
+      </header>
+      
+      <p>Je doelgroep bereiken via social media is essentieel, maar de manier waarop is minstens zo belangrijk. Daarom schrijven we een uitgebreide strategie voor je waarin duidelijk wordt hoe we je bedrijf het beste onder de aandacht kunnen brengen.</p>
+    </section>
+    
+    <section class="single-service">
+      <header>
+        <h2>Beheer</h2>
+      </header>
+      
+      <p>Het is belangrijk dat je social media kanalen dagelijks worden bijgehouden. Iedereen met een vraag of opmerking wordt op die manier netjes en snel te woord gestaan. Een cruciaal onderdeel van je service.</p>
+    </section>
+    
+    <section class="single-service">
+      <header>
+        <h2>Social Advertising</h2>
+      </header>
+      
+      <p>Om naast je volgers nog meer mensen te bereiken, plaatsen we zeer doelgerichte advertenties op social media. We targetten heel gericht op jouw doelgroep en laten de conversie toenemen.</p>
+    </section>
+    
+    <section class="single-service">
+      <header>
+        <h2>Content Creatie</h2>
+      </header>
+      
+      <p>Door middel van prikkelende content brengen we jouw verhaal goed over aan je volgers. We zorgen ervoor dat ze geboeid blijven en verrast worden door goede content.</p>
+    </section>
+    
+    <section class="single-service">
+      <header>
+        <h2>Influencer Marketing</h2>
+      </header>
+      
+      <p>We zetten ons netwerk van geselecteerde influencers in om jouw product of dienst onder de aandacht te brengen bij hun volgers en fans.<p>
+    </section>
+    
+    <section class="single-service">
+      <header>
+        <h2>Websites</h2>
+      </header>
+      
+      <p>Wanneer je beschikt over een stijlvolle website die goed te vinden is en makkelijk is in gebruik dan straalt dat af op je hele bedrijf. Wij bieden hiervoor verschillende opties aan die passen bij je wensen.<p>
+    </section>
+  </div>
+</div> 

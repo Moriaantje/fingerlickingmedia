@@ -1,0 +1,91 @@
+---
+title: Home
+menu_order: 1_
+layout: default
+path: home
+---
+<header class="page-header">
+  <div class="wrapper">
+    <h1>Marketing - om de vingers bij af te likken zo goed!</h1>
+  </div>
+</header>
+
+<section class="introduction">
+  <div class="wrapper">
+    <header>
+      <h2>Finger Licking Media is een digital content agency. We hebben de kennis en de juiste ingrediënten om jouw verhaal goed te laten smaken. Dit doen we met een heldere en praktische strategie als recept.</h2>
+    </header>
+    
+    <a href="/services">Onze diensten <span class="arrow">></span></a>
+  </div>
+</section>
+
+<section class="about-our-work">
+  <div class="wrapper">
+    <header>
+      <h2>We werken voor meer dan 150 bedrijven</h2>
+    </header>
+  </div>
+</section>
+
+<div class="wrapper">
+  <section class="clients">
+    <header>
+      <h2>Deze bedrijven gingen je voor</h2>
+    </header>
+    
+    <div class="client-logo-grid">
+      <ol>
+        <li lang="en">
+          <a href="https://interhouse.nl" target="_blank" title="Interhouse">
+            <img src="/assets/images/logos/logo_4.png" alt="Afbeelding van het Interhouse logo" />
+          </a>
+        </li>
+        <li>
+          <a href="https://ecomamahotel.com" target="_blank" title="Ecomama">
+            <img src="/assets/images/logos/logo_6.png" alt="Afbeelding van het Ecomama logo" />
+          </a>
+        </li>
+        <li>
+          <a href="https://villacoucou.nl" target="_blank" title="Villa Coucou">
+            <img src="/assets/images/logos/logo_3.png" alt="Afbeelding van het Villa Coucou logo" />
+          </a>
+        </li>
+        <li>
+          <a href="https://braaiamsterdam.nl" target="_blank" title="Braai Amsterdam">
+            <img src="/assets/images/logos/logo_8.png" alt="Afbeelding van het Braai Amsterdam logo" />
+          </a>
+        </li>
+        <li>
+          <a href="https://mlinhaarlem.nl" target="_blank" title="ML">
+            <img src="/assets/images/logos/logo_2.png" alt="Afbeelding van het ML logo" />
+          </a>
+        </li>
+        <li>
+          <a href="https://brasserieambassade.nl" target="_blank" title="Brasserie Ambassade">
+            <img src="/assets/images/logos/logo_1.png" alt="Afbeelding van het Brasserie Ambassade logo" />
+          </a>
+        </li>
+        <li>
+          <a href="https://www.wateenleukhuis.nl" target="_blank" title="Hugtenberg & de Vries">
+            <img src="/assets/images/logos/logo_5.png" alt="Afbeelding van het Hugtenberg & de Vries logo" />
+          </a>
+        </li>
+        <li>
+          <a href="https://www.czaar-amsterdam.nl/" target="_blank" title="Czaar Amsterdam">
+            <img src="/assets/images/logos/logo_7.png" alt="Afbeelding van het Czaar Amsterdam logo" />
+          </a>
+        </li>
+      </ol>
+    </div>
+    
+    <div class="introduction">
+      <blockquote>
+        "Finger Licking Media ontzorgt op alles wat met social media te maken heeft. Dat geeft rust en ruimte, zodat wij ons op andere dingen kunnen focussen. Wij zijn super tevreden over de foto's, content en strategie!" 
+        <footer>
+          <strong>- <cite>Braai Amsterdam</cite></strong>
+        </footer>
+      </blockquote>
+    </div>
+  </section>
+</div>
