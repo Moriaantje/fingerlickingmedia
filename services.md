@@ -55,7 +55,7 @@ path: services
         <h2>Influencer Marketing</h2>
       </header>
       
-      <p>We zetten ons netwerk van geselecteerde influencers in om jouw product of dienst onder de aandacht te brengen bij hun volgers en fans.<p>
+      <p>We zetten ons netwerk van geselecteerde influencers in om jouw product of dienst onder de aandacht te brengen bij hun volgers en fans.</p>
     </section>
     
     <section class="single-service">
@@ -63,7 +63,7 @@ path: services
         <h2>Websites</h2>
       </header>
       
-      <p>Wanneer je beschikt over een stijlvolle website die goed te vinden is en makkelijk is in gebruik dan straalt dat af op je hele bedrijf. Wij bieden hiervoor verschillende opties aan die passen bij je wensen.<p>
+      <p>Wanneer je beschikt over een stijlvolle website die goed te vinden is en makkelijk is in gebruik dan straalt dat af op je hele bedrijf. Wij bieden hiervoor verschillende opties aan die passen bij je wensen.</p>
     </section>
   </div>
 </div> 
