@@ -45,8 +45,9 @@
   <div class="wrapper">
     <section class="call-to-action">
       <header>
-        {% assign tagline = "Benieuwd naar <br /> de mogelijkheden?, Interesse?" | split: ", " | random %}
-        <h2>{{ tagline }}</h2>
+        {% assign tagline = "Benieuwd naar <br /> de mogelijkheden?, Interesse?" | split: ", " %}
+        {% assign random = page.menu_order | modulo: 2 %}
+        <h2>{{ tagline[random] }}</h2>
       </header>
   
       <p>Bel ons op: <a href="tel:023-8200260">023-8200260</a></p>
