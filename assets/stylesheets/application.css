@@ -461,6 +461,8 @@ a {
     background-image: url("/assets/images/headers/homepage_1.jpg"); }
   #services .page-header {
     background-image: url("/assets/images/headers/services_1.jpg"); }
+  #blog .page-header {
+    background-image: url("/assets/images/headers/blog_1.jpg"); }
   #our-work .page-header {
     display: block;
     height: auto;
