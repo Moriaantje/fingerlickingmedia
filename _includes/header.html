@@ -7,11 +7,13 @@
       <ul>
         {% assign mypages = site.pages | sort: "menu_order" %}
         {% for menupage in mypages %}
-        {% if page.path == menupage.path %}
-          {% assign selected = "selected" %}
-        {% endif %}
-        <li class="{{ selected }}"><a href="/{{ menupage.path }}">{{ menupage.title }}</a></li>
-        {% assign selected = "" %}
+          {% if page.path == menupage.path %}
+            {% assign selected = "selected" %}
+          {% elsif page.layout == "blog" and menupage.path == "blog" %}
+            {% assign selected = "selected" %}
+          {% endif %}
+          <li class="{{ selected }}"><a href="/{{ menupage.path }}">{{ menupage.title }}</a></li>
+          {% assign selected = "" %}
         {% endfor %}
       </ul>
       <a href="#navigation" id="hamburger" aria-label="Navigatie" aria-expanded="false">
