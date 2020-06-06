@@ -10,12 +10,25 @@
     
     <link rel="stylesheet" href='/assets/stylesheets/application.css'>
   </head>
-  <body id="{{ page.name | replace: '.html' }}">
+  <body id="blog">
     {% include header.html %}
 
     <main>
       <section class="content">
-        {{ content }}
+        <header class="page-header">
+          <div class="wrapper">
+            <h1>{{ page.title }}</h1>
+          </div>
+        </header>
+        
+        <div class="wrapper">
+          {% if page.intro %}
+          <div class="introduction">
+            <p>{{ page.intro }}</p>
+          </div>
+          {% endif %}
+          {{ content }}
+        </div>
       </section>
     </main>
     

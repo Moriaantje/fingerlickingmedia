@@ -1,0 +1,22 @@
+<header class="masthead">
+  <div class="wrapper">
+    <h1 class="logo">
+      <a href="/">Finger Licking Media</a>
+    </h1>
+    <nav id="navigation" role="navigation">
+      <ul>
+        {% assign mypages = site.pages | sort: "menu_order" %}
+        {% for menupage in mypages %}
+        {% if page.path == menupage.path %}
+          {% assign selected = "selected" %}
+        {% endif %}
+        <li class="{{ selected }}"><a href="/{{ menupage.path }}">{{ menupage.title }}</a></li>
+        {% assign selected = "" %}
+        {% endfor %}
+      </ul>
+      <a href="#navigation" id="hamburger" aria-label="Navigatie" aria-expanded="false">
+        <span aria-hidden="true">Navigatie</span>
+      </a>
+    </nav>
+  </div>
+</header>
