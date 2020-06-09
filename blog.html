@@ -10,12 +10,14 @@ path: blog
 </header>
 
 <div class="wrapper">
-  <ul>
-    {% for post in site.posts %}
-      <li>
-        <a href="{{ post.url }}">{{post.date | date: "%d-%m-%Y" }} - {{ post.title }}</a>
-        <div>{{post.excerpt | strip_html}}…</div>
-      </li>
-    {% endfor %}
-  </ul>
+  <div class="blog-index">
+    <ul>
+      {% for post in site.posts %}
+        <li>
+          <a href="{{ post.url }}">{{post.date | date: "%d-%m-%Y" }} - {{ post.title }}</a>
+          <div>{{post.excerpt | strip_html}}…</div>
+        </li>
+      {% endfor %}
+    </ul>
+  </div>
 </div>

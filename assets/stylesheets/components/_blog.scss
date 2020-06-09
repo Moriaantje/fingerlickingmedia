@@ -1,0 +1,73 @@
+.blog-index {
+  
+}
+
+#blog {
+  
+  .introduction {
+    @include wrapper(100%, 700px);
+    margin-bottom: 24px;
+    
+    p {
+      font-size: 26.5px;
+      line-height: 39px;
+    }
+  }
+  
+  article {
+    @include wrapper(100%, 700px);
+    margin-bottom: $spacing-unit * 10;
+    
+    a {
+      color: $color-primary;
+    }
+    
+    h1, h2, h3, p, ul, ol, img, hr {
+      margin-bottom: $spacing-unit * 2;
+    }
+    
+    h1, h2, h3 {
+      display: block;
+      color: #393234;
+      font-family: 'mreavesxlsanot-bold';
+    }
+    
+    h1 {
+      font-size: 33px;
+      line-height: 43px;
+    }
+    
+    h2 {
+      font-size: 26px;
+      line-height: 40px;
+    }
+    
+    h3 {
+      font-size: 23px;
+      line-height: 36px;
+    }
+    
+    ul, ol {
+      list-style-position: inside;
+    }
+    
+    ul {
+      list-style-type: disc;
+    }
+    
+    ol {
+      list-style-type: decimal;
+    }
+    
+    img {
+      display: block;
+      width: 100%;
+      height: auto;
+    }
+    
+    hr {
+      border: 0;
+      border-top: 4px solid #FAF9F9;
+    }
+  }
+}
