@@ -1,1 +1,14 @@
 name: Finger Licking Media
+defaults:
+  -
+    scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: "default"
+    
+  -
+    scope:
+      type: "posts"
+    values:
+      layout: "blog"
