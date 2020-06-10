@@ -816,7 +816,7 @@ a {
   margin-right: auto;
   margin-left: auto;
   margin-bottom: 60px; }
-  #blog .post time {
+  #blog .post .author {
     display: block;
     color: #9D8189;
     padding-bottom: 12px;
@@ -909,7 +909,7 @@ a {
       font-size: 33px;
       line-height: 43px;
       margin-bottom: 6px; }
-    #blog .overview .post time {
+    #blog .overview .post .author {
       padding-bottom: 0;
       margin-bottom: 0;
       border-bottom: 0; }

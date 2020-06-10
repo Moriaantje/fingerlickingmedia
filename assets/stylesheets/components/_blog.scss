@@ -4,7 +4,7 @@
     @include wrapper(100%, 700px);
     margin-bottom: $spacing-unit * 10;
     
-    time {
+    .author {
       display: block;
       color: #9D8189;
       padding-bottom: 12px;
@@ -131,7 +131,7 @@
         margin-bottom: $spacing-unit;
       }
       
-      time {
+      .author {
         padding-bottom: 0;
         margin-bottom: 0;
         border-bottom: 0;

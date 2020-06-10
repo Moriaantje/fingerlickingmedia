@@ -23,7 +23,7 @@
         
         <div class="wrapper">
           <div class="post">
-            <time>{{page.date | date: "%d-%m-%Y" }} {% if page.author %}- {{ page.author }}{% endif %}</time>
+            {% if page.author %}<span class="author">Geschreven door {{ page.author }}</span>{% endif %}
             
             {% if page.intro %}
             <div class="introduction">
