@@ -829,8 +829,8 @@ a {
       line-height: 39px; }
   #blog .post a {
     color: #E24A74; }
-  #blog .post h1, #blog .post h2, #blog .post h3, #blog .post p, #blog .post ul, #blog .post ol, #blog .post img, #blog .post hr {
-    margin-bottom: 12px; }
+  #blog .post h1, #blog .post h2, #blog .post h3, #blog .post p, #blog .post ul, #blog .post ol, #blog .post img, #blog .post hr, #blog .post table {
+    margin-bottom: 18px; }
   #blog .post h1, #blog .post h2, #blog .post h3 {
     display: block;
     color: #393234;
@@ -857,6 +857,19 @@ a {
   #blog .post hr {
     border: 0;
     border-top: 4px solid #FAF9F9; }
+  #blog .post table {
+    width: 100%;
+    text-align: left;
+    border: 1px solid #ddd; }
+    #blog .post table th, #blog .post table td {
+      padding-top: 6px;
+      padding-right: 12px;
+      padding-bottom: 6px;
+      padding-left: 12px; }
+    #blog .post table th {
+      background: #FAF9F9;
+      font-weight: 700;
+      border-bottom: 1px solid #ddd; }
 
 #blog .overview {
   width: 100%;
