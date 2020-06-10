@@ -1,22 +1,25 @@
-.blog-index {
-  
-}
-
 #blog {
   
-  .introduction {
-    @include wrapper(100%, 700px);
-    margin-bottom: 24px;
-    
-    p {
-      font-size: 26.5px;
-      line-height: 39px;
-    }
-  }
-  
-  article {
+  .post {
     @include wrapper(100%, 700px);
     margin-bottom: $spacing-unit * 10;
+    
+    time {
+      display: block;
+      color: #9D8189;
+      padding-bottom: 12px;
+      margin-bottom: 24px;
+      border-bottom: 4px solid #FAF9F9;
+    }
+    
+    .introduction {
+      margin-bottom: 24px;
+      
+      p {
+        font-size: 26.5px;
+        line-height: 39px;
+      }
+    }
     
     a {
       color: $color-primary;
@@ -39,7 +42,7 @@
     
     h2 {
       font-size: 26px;
-      line-height: 40px;
+      line-height: 33px;
     }
     
     h3 {
@@ -68,6 +71,61 @@
     hr {
       border: 0;
       border-top: 4px solid #FAF9F9;
+    }
+  }
+
+  .overview {
+    @include wrapper(100%, 900px);
+    margin-bottom: $spacing-unit * 10;
+    
+    .post {
+      @include flexbox();
+      @include wrapper(100%, 900px);
+      margin-bottom: $spacing-unit * 8;
+      
+      &:last-child {
+        margin-bottom: 0;
+      }
+      
+      .featured-image {
+        display: block;
+        width: 220px;
+        margin: {
+          right: $spacing-unit * 6;
+          bottom: $spacing-unit * 3;
+        }
+      }
+      
+      .post-content {
+        flex: 1;
+      }
+      
+      header {
+        margin-bottom: $spacing-unit * 3;
+      }
+      
+      h2 {
+        font-size: 33px;
+        line-height: 43px;
+        margin-bottom: $spacing-unit;
+      }
+      
+      time {
+        padding-bottom: 0;
+        margin-bottom: 0;
+        border-bottom: 0;
+      }
+    }
+    
+    @include respond-to-max(600px) {
+      
+      .post {
+        display: block;
+        
+        .featured-image {
+          width: 100%;
+        }
+      }
     }
   }
 }

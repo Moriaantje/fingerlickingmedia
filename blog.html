@@ -10,14 +10,24 @@ path: blog
 </header>
 
 <div class="wrapper">
-  <div class="blog-index">
-    <ul>
-      {% for post in site.posts %}
-        <li>
-          <a href="{{ post.url }}">{{post.date | date: "%d-%m-%Y" }} - {{ post.title }}</a>
-          <div>{{post.excerpt | strip_html}}…</div>
-        </li>
-      {% endfor %}
-    </ul>
+  <div class="overview">
+    {% for post in site.posts %}
+      <article class="post">
+        {% if post.featured-image %}
+          <img class="featured-image" src="{{ site.baseurl }}/assets/images/{{ post.header-image }}" alt="{{ post.featured-image-alt }}" />
+        {% endif %}
+        
+        <div class="post-content">
+          <header>
+            <h2>
+              <a href="{{ post.url }}">{{ post.title }}</a>
+            </h2>
+            <time>{{post.date | date: "%d-%m-%Y" }} {% if post.author %}- {{ post.author }}{% endif %}</time>
+          </header>
+          
+          <p>{{post.intro | strip_html}}</p>
+        </div>
+      </article>
+    {% endfor %}
   </div>
 </div>
