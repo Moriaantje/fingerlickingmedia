@@ -1,0 +1,152 @@
+#blog {
+  
+  .post {
+    @include wrapper(100%, 700px);
+    margin-bottom: $spacing-unit * 10;
+    
+    .author {
+      display: block;
+      color: #9D8189;
+      padding-bottom: 12px;
+      margin-bottom: 24px;
+      border-bottom: 4px solid #FAF9F9;
+    }
+    
+    .introduction {
+      margin-bottom: 24px;
+      
+      p {
+        font-size: 26.5px;
+        line-height: 39px;
+      }
+    }
+    
+    a {
+      color: $color-primary;
+    }
+    
+    h1, h2, h3, p, ul, ol, img, hr, table {
+      margin-bottom: $spacing-unit * 3;
+    }
+    
+    h1, h2, h3 {
+      display: block;
+      color: #393234;
+      font-family: 'mreavesxlsanot-bold';
+    }
+    
+    h1 {
+      font-size: 33px;
+      line-height: 43px;
+    }
+    
+    h2 {
+      font-size: 26px;
+      line-height: 33px;
+    }
+    
+    h3 {
+      font-size: 23px;
+      line-height: 36px;
+    }
+    
+    ul, ol {
+      list-style-position: inside;
+    }
+    
+    ul {
+      list-style-type: disc;
+    }
+    
+    ol {
+      list-style-type: decimal;
+    }
+    
+    img {
+      display: block;
+      width: 100%;
+      height: auto;
+    }
+    
+    hr {
+      border: 0;
+      border-top: 4px solid #FAF9F9;
+    }
+    
+    table {
+      width: 100%;
+      text-align: left;
+      border: 1px solid #ddd;
+      
+      th, td {
+        padding: {
+          top: $spacing-unit;
+          right: $spacing-unit * 2;
+          bottom: $spacing-unit;
+          left: $spacing-unit * 2;
+        }
+      }
+      
+      th {
+        background: #FAF9F9;
+        font-weight: 700;
+        border-bottom: 1px solid #ddd;
+      }
+    }
+  }
+
+  .overview {
+    @include wrapper(100%, 900px);
+    margin-bottom: $spacing-unit * 10;
+    
+    .post {
+      @include flexbox();
+      @include wrapper(100%, 900px);
+      margin-bottom: $spacing-unit * 8;
+      
+      &:last-child {
+        margin-bottom: 0;
+      }
+      
+      .featured-image {
+        display: block;
+        width: 220px;
+        margin: {
+          right: $spacing-unit * 6;
+          bottom: $spacing-unit * 3;
+        }
+      }
+      
+      .post-content {
+        flex: 1;
+      }
+      
+      header {
+        margin-bottom: $spacing-unit * 3;
+      }
+      
+      h2 {
+        font-size: 33px;
+        line-height: 43px;
+        margin-bottom: $spacing-unit;
+      }
+      
+      .author {
+        padding-bottom: 0;
+        margin-bottom: 0;
+        border-bottom: 0;
+      }
+    }
+    
+    @include respond-to-max(600px) {
+      
+      .post {
+        display: block;
+        
+        .featured-image {
+          width: 100%;
+        }
+      }
+    }
+  }
+}

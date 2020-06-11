@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="nl">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="x-ua-compatible" content="ie=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no, viewport-fit=cover">
+    
+    <title>{{ page.title }} - {{ site.name }}</title>
+    <meta name="description" content="Finger Licking Media heeft de kennis en de juiste ingrediënten om jouw verhaal goed te laten smaken.">
+    
+    <link rel="stylesheet" href='/assets/stylesheets/application.css'>
+  </head>
+  <body id="blog">
+    {% include header.html %}
+
+    <main>
+      <section class="content">
+        <header class="page-header" {% if page.header-image %} style="background-image: url({{ site.baseurl }}/assets/images/{{ page.header-image }})" {% endif %}>
+          <div class="wrapper">
+            <h1>{{ page.title }}</h1>
+          </div>
+        </header>
+        
+        <div class="wrapper">
+          <div class="post">
+            {% if page.author %}<span class="author">Geschreven door {{ page.author }}</span>{% endif %}
+            
+            {% if page.intro %}
+            <div class="introduction">
+              <p>{{ page.intro }}</p>
+            </div>
+            {% endif %}
+            
+            <div>
+              {{ content }}
+            </div>
+          </div>
+        </div>
+      </section>
+    </main>
+    
+    {% include footer.html %}
+  </body>
+</html>

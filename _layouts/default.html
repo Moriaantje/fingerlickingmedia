@@ -11,60 +11,14 @@
     <link rel="stylesheet" href='/assets/stylesheets/application.css'>
   </head>
   <body id="{{ page.name | replace: '.html' }}">
-    <header class="masthead">
-      <div class="wrapper">
-        <h1 class="logo">
-          <a href="/">Finger Licking Media</a>
-        </h1>
-        
-        <nav id="navigation" role="navigation">
-          <ul>
-            {% assign mypages = site.pages | sort: "menu_order" %}
-            {% for menupage in mypages %}
-            {% if page.path == menupage.path %}
-              {% assign selected = "selected" %}
-            {% endif %}
-            <li class="{{ selected }}"><a href="/{{ menupage.path }}">{{ menupage.title }}</a></li>
-            {% assign selected = "" %}
-            {% endfor %}
-          </ul>
-          <a href="#navigation" id="hamburger" aria-label="Navigatie" aria-expanded="false">
-            <span aria-hidden="true">Navigatie</span>
-          </a>
-        </nav>
-      </div>
-    </header>
-    
+    {% include header.html %}
+
     <main>
       <section class="content">
         {{ content }}
       </section>
     </main>
-
-  {% unless page.no_call_to_action %}
-  <div class="wrapper">
-    <section class="call-to-action">
-      <header>
-        {% assign tagline = "Benieuwd naar <br /> de mogelijkheden?, Interesse?" | split: ", " %}
-        {% assign random = page.menu_order | modulo: 2 %}
-        <h2>{{ tagline[random] }}</h2>
-      </header>
-  
-      <p>Bel ons op: <a href="tel:023-8200260">023-8200260</a></p>
-      <p>Of mail naar: <a href="mailto:info@fingerlicking.media">info@fingerlicking.media</a></p>
-    </section>
-  </div>
-  {% endunless %}
-  <footer>
-    <div class="wrapper">
-      <strong class="logo">Finger Licking Media</strong>
-
-      <ul class="social-media">
-        <li><a class="instagram" title="Instagram" href="https://www.instagram.com/fingerlicking.media/">Instagram</a></li>
-      </ul>
-    </div>
-  </footer>
-
-  <script src="/assets/javascript/application.js"></script>
-</body>
+    
+    {% include footer.html %}
+  </body>
 </html>

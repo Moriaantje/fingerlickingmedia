@@ -1,0 +1,33 @@
+---
+title: Blog
+menu_order: 4
+path: blog
+---
+<header class="page-header">
+  <div class="wrapper">
+    <h1>Blog</h1>
+  </div>
+</header>
+
+<div class="wrapper">
+  <div class="overview">
+    {% for post in site.posts %}
+      <article class="post">
+        {% if post.featured-image %}
+          <img class="featured-image" src="{{ site.baseurl }}/assets/images/{{ post.header-image }}" alt="{{ post.featured-image-alt }}" />
+        {% endif %}
+        
+        <div class="post-content">
+          <header>
+            <h2>
+              <a href="{{ post.url }}">{{ post.title }}</a>
+            </h2>
+            {% if post.author %}<span class="author">Geschreven door {{ post.author }}</span>{% endif %}
+          </header>
+          
+          <p>{{post.intro | strip_html}}</p>
+        </div>
+      </article>
+    {% endfor %}
+  </div>
+</div>

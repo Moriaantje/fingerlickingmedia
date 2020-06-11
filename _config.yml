@@ -1,1 +1,15 @@
 name: Finger Licking Media
+permalink: /blog/:title
+defaults:
+  -
+    scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: "default"
+
+  -
+    scope:
+      type: "posts"
+    values:
+      layout: "blog"
