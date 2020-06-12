@@ -3,7 +3,8 @@ Om een bestand aan te maken navigeer je naar de folder waar je hem wilt hebben e
 
 Geef het bestand bovenin een naam en voeg je inhoud toe. Om te zien hoe je markdown er uit ziet kun je het **Preview** tabje gebruiken.
 
-Het toevoegen van een bestand is een wijziging. Een wijziging noemen we een commit. Elke commit heeft een schrijver en een omschrijving. Vul  deze in en kies `master` of **new branch**. Als je een commit op `master` maakt is het zichtbaar voor iedereen. Als je voor **new branch** kiest, dan kunnen ander eet.nu mensen met toegang het bekijken zonder dat bezoekers het zien.
+# Commit
+Het toevoegen of wijzigen van een bestand noemen we een commit. Elke commit heeft een schrijver en een omschrijving. Vul deze in en kies `master` of **new branch**. Als je een commit op `master` maakt is het zichtbaar voor iedereen. Als je voor **new branch** kiest, dan kunnen ander eet.nu mensen met toegang het bekijken zonder dat bezoekers het zien.
 
 # Voeg een blog toe
 Blogs staan in de `_posts` directoy. Een nieuwe blog maak je door een bestand aan te maken met de naam `JJJJ-MM-DD-titel.md` met de juiste datum in de naam.
