@@ -14,7 +14,7 @@ path: blog
     {% for post in site.posts %}
       <article class="post">
         {% if post.featured-image %}
-          <img class="featured-image" src="{{ site.baseurl }}/assets/images/{{ post.header-image }}" alt="{{ post.featured-image-alt }}" />
+          <img class="featured-image" src="{{ site.baseurl }}/assets/images/blog/{{ post.featured-image }}" alt="{{ post.featured-image-alt }}" />
         {% endif %}
         
         <div class="post-content">
