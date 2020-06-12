@@ -3,7 +3,7 @@ featured-image: laat-je-gasten-watertanden/image4.jpg
 featured-image-alt: Hamburger
 author: Marlot Bakker
 title: Laat je gasten watertanden met jouw foto's!
-intro: Food fotografie of culinaire fotografie is een vak apart. Natuurlijk kunnen we allemaal een mooie foto maken van onze tosti, maar foodfotografie gaat nog veel verder dan dat. Wij delen onze tips!
+intro: Foodfotografie of culinaire fotografie is een vak apart. Natuurlijk kunnen we allemaal een mooie foto maken van onze tosti, maar foodfotografie gaat nog veel verder dan dat. Wij delen onze tips!
 ---
 
 # Camera
