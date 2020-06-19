@@ -48,7 +48,7 @@ Een filter maakt of kraakt een foto. Kies voor een filter die de kleuren van het
 
 ![Verschil met origineel en nabewerkte foto](/assets/images/blog/laat-je-gasten-watertanden/nabewerking.jpg)
 
-Daarnaast bestaan er vele trucjes om het gerecht nog smakelijker te maken. Hierover leggen we meer uit in onze blog over nabewerking welke volgende week online komt!
+Daarnaast bestaan er vele trucjes om het gerecht nog smakelijker te maken. Hierover leggen we meer uit in onze blog over nabewerking welke binnenkort online komt!
 
 Veel succes!
 
