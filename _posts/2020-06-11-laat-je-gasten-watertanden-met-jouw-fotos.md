@@ -12,7 +12,7 @@ Velen fotograferen met hun telefoon en begrijp ons niet verkeerd; de camera’s 
 
 ![Hamburger](/assets/images/blog/laat-je-gasten-watertanden/image4.jpg)
 
-Bij Finger Licking Media zijn wij team Canon en fotograferen met een full frame Canon EOS 6D MARK. Full frame camera’s zijn lichtgevoeliger dan reguliere spiegelreflexcamera’s en zorgen ervoor dat je - ook in slechtere lichtomstandigheden - je gerecht goed kunt belichten zonder een hoge ISO-waarde te hoeven gebruiken. Want op een mooie foto hoort ruis niet thuis.
+Bij Finger Licking Media zijn wij team Canon en fotograferen met een full frame Canon EOS 6D MARK. Full frame camera’s zijn lichtgevoeliger dan reguliere spiegelreflexcamera’s en zorgen ervoor dat je - ook in slechtere lichtomstandigheden - je gerecht goed kunt belichten zonder een hoge [ISO-waarde](/blog/na-het-lezen-van-deze-blog-wil-jij-nooit-meer-op-de-automatische-stand-fotograferen) te hoeven gebruiken. Want op een mooie foto hoort ruis niet thuis.
 
 # Lenzen
 Wil je geen standaard plaatje maken? Gebruik dan meerdere objectieven, zodat je veelzijdige foto’s krijgt.
