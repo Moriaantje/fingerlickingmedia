@@ -8,13 +8,13 @@ intro: Vandaag gaan we het hebben over interieurfotografie. Het lijkt simpel, ma
 ---
 
 # Groothoeklens
-Misschien wel één van de meest belangrijke items in deze blog: de lens - oftewel het objectief. Waar een portretlens zich perfect leent voor portret- en foodfotografie, is een groothoeklens niet te missen bij interieurfotografie.
+Misschien wel één van de meest belangrijke items in deze blog: de lens - oftewel het objectief. Waar een portretlens zich perfect leent voor portret- en [foodfotografie](https://fingerlicking.media/blog/laat-je-gasten-watertanden-met-jouw-fotos), is een groothoeklens niet te missen bij interieurfotografie.
 
 Een groothoeklens biedt een nieuw perspectief en geeft jou als fotograaf de optie om veel meer in beeld te brengen. Hoe meer er in beeld staat, hoe groter en spectaculairder de ruimte lijkt.
 
 
 # Licht
-Zoals bij de meeste fotografie-specialisaties, wil je ook bij interieurfotografie het liefst fotograferen met daglicht. Daglicht zorgt voor natuurlijke kleuren en geeft je de luxe om je ISO-waarde laag te houden en daarmee ruis in je foto te voorkomen. 
+Zoals bij de meeste fotografie-specialisaties, wil je ook bij interieurfotografie het liefst fotograferen met daglicht. Daglicht zorgt voor natuurlijke kleuren en geeft je de luxe om je [ISO-waarde](https://fingerlicking.media/blog/na-het-lezen-van-deze-blog-wil-jij-nooit-meer-op-de-automatische-stand-fotograferen) laag te houden en daarmee ruis in je foto te voorkomen. 
 
 Is er geen of weinig daglicht in bijvoorbeeld het restaurant of de vergaderruimte en heb je te maken met kunstlicht? Zorg er dan voor dat je je witbalans aanpast op de camera op basis van het omgevingslicht. Door het aanpassen van de witbalans worden natuurlijke kleuren behouden. Ook het uitzetten van een storende lichtbron kan veel tijd schelen in de nabewerking. Denk tijdens het fotograferen dus al na over je gewenste eindproduct!
 
@@ -36,7 +36,7 @@ De belangrijkste instelling bij interieurfotografie is het diafragma. De ISO-waa
 
 Het diafragma wil je zo klein mogelijk hebben (groot F-getal). Een klein diafragma zorgt er namelijk voor dat er geen scherptediepte is en dat dus de gehele foto scherp is.
 
-In onze vorige blog legden we het al uit; de ISO-waarde wil je altijd zo laag mogelijk houden om ruis te voorkomen. Zet je ISO dus lekker op 100 als je voldoende (dag)licht hebt.
+In onze [vorige blog](https://fingerlicking.media/blog/na-het-lezen-van-deze-blog-wil-jij-nooit-meer-op-de-automatische-stand-fotograferen) legden we het al uit; de ISO-waarde wil je altijd zo laag mogelijk houden om ruis te voorkomen. Zet je ISO dus lekker op 100 als je voldoende (dag)licht hebt.
 
 Omdat de sluitertijd je variabele is, kun je het best fotograferen in de AV-stand. In deze stand hoef je enkel de ISO-waarde en het diafragma in te stellen en de camera zal zelf een passende sluitertijd instellen.
 Maar ook met sluitertijd kun je spelen! Kijk maar eens naar de nachtlampjes in deze foto. Dit is geen photoshop. Wat dan wel? Hier is een sluitertijd van meerdere seconden gebruikt. Tijdens deze seconden valt het licht van de nachtlampjes in de lens, waardoor er een ster ontstaat. Hoe langer de sluitertijd, hoe groter de ster!
@@ -44,8 +44,8 @@ Maar ook met sluitertijd kun je spelen! Kijk maar eens naar de nachtlampjes in d
 ![Hotelkamer van het Ambassade Hotel in Amsterdam aan de Herengracht](/assets/images/blog/ambassade-hotel.jpg)
 
 
-#Statief
-Ben je in het bezit van een statief? Maak hier gebruik van! Een statief voorkomt namelijk trillingen en zorgt ervoor dat je met die lange sluitertijd kunt werken. Zou je uit de hand schieten, dan ben je gedwongen te werken met een snellere sluitertijd en daarmee een hogere ISO-waarde - en dus meer ruis. Gaat deze logica je pet even te boven? Lees dan onze algemene blog.
+# Statief
+Ben je in het bezit van een statief? Maak hier gebruik van! Een statief voorkomt namelijk trillingen en zorgt ervoor dat je met die lange sluitertijd kunt werken. Zou je uit de hand schieten, dan ben je gedwongen te werken met een snellere sluitertijd en daarmee een hogere ISO-waarde - en dus meer ruis. Gaat deze logica je pet even te boven? Lees dan onze [algemene blog](https://fingerlicking.media/blog/na-het-lezen-van-deze-blog-wil-jij-nooit-meer-op-de-automatische-stand-fotograferen).
 
 Extra tip: sta je op een houten vloer? Let er dan op dat er niemand rondom de camera loopt. Deze trillingen zijn namelijk terug te zien op de foto.
 
