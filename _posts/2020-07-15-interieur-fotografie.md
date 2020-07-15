@@ -25,7 +25,8 @@ Daarnaast is het belangrijk om niet tegen het licht in te fotograferen. Als foto
 
 Extra tip: gebruik de interne waterpas van je camera of statief om er zeker van te zijn dat je foto kaarsrecht is.
 
-
+![ML](/assets/images/blog/ml.jpg)
+Restaurant ML
 
 # Instellingen
 De belangrijkste instelling bij interieurfotografie is het diafragma. De ISO-waarde komt daar vlak achteraan en de sluitertijd is je variabele.
