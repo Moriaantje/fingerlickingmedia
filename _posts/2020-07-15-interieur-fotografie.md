@@ -18,7 +18,7 @@ Zoals bij de meeste fotografie-specialisaties, wil je ook bij interieurfotografi
 
 Is er geen of weinig daglicht in bijvoorbeeld het restaurant of de vergaderruimte en heb je te maken met kunstlicht? Zorg er dan voor dat je je witbalans aanpast op de camera op basis van het omgevingslicht. Door het aanpassen van de witbalans worden natuurlijke kleuren behouden. Ook het uitzetten van een storende lichtbron kan veel tijd schelen in de nabewerking. Denk tijdens het fotograferen dus al na over je gewenste eindproduct!
 
-![Interieurfoto van De Hoofdwacht](assets/images/blog/de-hoofdwacht-lr-45.jpg)
+![Interieurfoto van De Hoofdwacht](/assets/images/blog/de-hoofdwacht-lr-45.jpg)
 De Hoofdwacht
 
 # Compositie
@@ -41,7 +41,7 @@ In onze vorige blog legden we het al uit; de ISO-waarde wil je altijd zo laag mo
 Omdat de sluitertijd je variabele is, kun je het best fotograferen in de AV-stand. In deze stand hoef je enkel de ISO-waarde en het diafragma in te stellen en de camera zal zelf een passende sluitertijd instellen.
 Maar ook met sluitertijd kun je spelen! Kijk maar eens naar de nachtlampjes in deze foto. Dit is geen photoshop. Wat dan wel? Hier is een sluitertijd van meerdere seconden gebruikt. Tijdens deze seconden valt het licht van de nachtlampjes in de lens, waardoor er een ster ontstaat. Hoe langer de sluitertijd, hoe groter de ster!
 
-![Hotelkamer van het Ambassade Hotel in Amsterdam aan de Herengracht](assets/images/blog/ambassade-hotel.jpg)
+![Hotelkamer van het Ambassade Hotel in Amsterdam aan de Herengracht](/assets/images/blog/ambassade-hotel.jpg)
 
 
 #Statief
