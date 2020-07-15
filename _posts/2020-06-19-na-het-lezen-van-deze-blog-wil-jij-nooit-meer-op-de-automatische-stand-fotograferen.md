@@ -1,6 +1,7 @@
 ---
 title: Na het lezen van deze blog wil jij nooit meer op de automatische stand fotograferen!
 author: Marlot Bakker
+featured-image: na-het-lezen-van-deze-blog-wil-jij-nooit-meer-op-de-automatische-stand-fotograferen/omslag-de-koperen-vis.jpg
 header-image: blog/na-het-lezen-van-deze-blog-wil-jij-nooit-meer-op-de-automatische-stand-fotograferen/omslag-de-koperen-vis.jpg
 intro: |
   Heb jij een spiegelreflexcamera en maak je mooie foto’s, maar fotografeer je nog op de automatische stand? Snap je vrij weinig van al die technische termen? Dan zit je hier goed. 

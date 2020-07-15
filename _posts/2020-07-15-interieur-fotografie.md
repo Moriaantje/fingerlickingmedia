@@ -1,12 +1,11 @@
 ---
-title: <Interieurfotograaf worden is nog nooit zo makkelijk geweest!>
+title: Interieurfotograaf worden is nog nooit zo makkelijk geweest!
 author: Marlot Bakker
-header-image: blog/burning.jpg
-featured-image: blog/burning.jpg
+header-image: blog/ml.jpg
+featured-image: ml.jpg
 featured-image-alt: Vuurbal
 intro: Vandaag gaan we het hebben over interieurfotografie. Het lijkt simpel, maar er zit meer achter dan je misschien in eerste instantie denkt. Na het lezen van deze blog kun jij interieurfoto's maken als een pro!.
 ---
-
 
 # Groothoeklens
 Misschien wel één van de meest belangrijke items in deze blog: de lens - oftewel het objectief. Waar een portretlens zich perfect leent voor portret- en foodfotografie, is een groothoeklens niet te missen bij interieurfotografie.
