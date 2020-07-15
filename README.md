@@ -12,7 +12,7 @@ Blogs staan in de `_posts` directoy. Een nieuwe blog maak je door een bestand aa
 Begin elk blog-bestand met in ieder geval
 ```
 ---
-title: <De titel van de blog>
+title: De titel van de blog
 ---
 ```
 
