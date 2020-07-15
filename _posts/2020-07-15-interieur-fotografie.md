@@ -4,7 +4,7 @@ author: Marlot Bakker
 header-image: blog/header.jpg
 featured-image: header.jpg
 featured-image-alt: Villa Coucou
-intro: Vandaag gaan we het hebben over interieurfotografie. Het lijkt simpel, maar er zit meer achter dan je misschien in eerste instantie denkt. Na het lezen van deze blog kun jij interieurfoto's maken als een pro!.
+intro: Vandaag gaan we het hebben over interieurfotografie. Het lijkt simpel, maar er zit meer achter dan je misschien in eerste instantie denkt. Na het lezen van deze blog kun jij interieurfoto's maken als een pro!
 ---
 
 # Groothoeklens
@@ -14,7 +14,7 @@ Een groothoeklens biedt een nieuw perspectief en geeft jou als fotograaf de opti
 
 
 # Licht
-Zoals bij de meeste fotografie-specialisaties, wil je ook bij interieurfotografie het liefst fotograferen met daglicht. Daglicht zorgt voor natuurlijke kleuren en geeft je de luxe om je [ISO-waarde](/blog/na-het-lezen-van-deze-blog-wil-jij-nooit-meer-op-de-automatische-stand-fotograferen) laag te houden en daarmee ruis in je foto te voorkomen. 
+Zoals bij de meeste fotografie-specialisaties wil je ook bij interieurfotografie het liefst fotograferen met daglicht. Daglicht zorgt voor natuurlijke kleuren en geeft je de luxe om je [ISO-waarde](/blog/na-het-lezen-van-deze-blog-wil-jij-nooit-meer-op-de-automatische-stand-fotograferen) laag te houden en daarmee ruis in je foto te voorkomen. 
 
 Is er geen of weinig daglicht in bijvoorbeeld het restaurant of de vergaderruimte en heb je te maken met kunstlicht? Zorg er dan voor dat je je witbalans aanpast op de camera op basis van het omgevingslicht. Door het aanpassen van de witbalans worden natuurlijke kleuren behouden. Ook het uitzetten van een storende lichtbron kan veel tijd schelen in de nabewerking. Denk tijdens het fotograferen dus al na over je gewenste eindproduct!
 
@@ -24,7 +24,7 @@ De Hoofdwacht
 # Compositie
 Compositie; misschien wel één van de belangrijkste aspecten als het gaat om interieurfotografie. Vaak is het de beste keuze om vanuit een hoek van de ruimte of recht van voren te fotograferen. Op deze manier krijg je het meest op beeld en maak je optimaal gebruik van de groothoeklens. Maak ook gebruik van de lijnen in het interieur. Hiermee beïnvloed je de kijklijn van het oog en leg je de focus op hetgeen waar jij wilt dat de aandacht naartoe gaat.
 
-Daarnaast is het belangrijk om niet tegen het licht in te fotograferen. Als fotograaf heb je het licht het liefst in de rug, zodat de natuurlijke kleuren het best naar voren komen. Een andere reden is de belichtingscurve. Wanneer je tegen het licht in fotografeert krijg je vaak een overbelichte of onderbelichte foto - of zelfs een combinatie daarvan.
+Daarnaast is het belangrijk om niet tegen het licht in te fotograferen. Als interieurfotograaf heb je het licht het liefst in de rug, zodat de natuurlijke kleuren het best naar voren komen. Een andere reden is de belichtingscurve. Wanneer je tegen het licht in fotografeert krijg je vaak een overbelichte of onderbelichte foto - of zelfs een combinatie daarvan.
 
 Extra tip: gebruik de interne waterpas van je camera of statief om er zeker van te zijn dat je foto kaarsrecht is.
 
