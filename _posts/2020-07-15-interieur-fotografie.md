@@ -42,6 +42,7 @@ Omdat de sluitertijd je variabele is, kun je het best fotograferen in de AV-stan
 Maar ook met sluitertijd kun je spelen! Kijk maar eens naar de nachtlampjes in deze foto. Dit is geen photoshop. Wat dan wel? Hier is een sluitertijd van meerdere seconden gebruikt. Tijdens deze seconden valt het licht van de nachtlampjes in de lens, waardoor er een ster ontstaat. Hoe langer de sluitertijd, hoe groter de ster!
 
 ![Hotelkamer van het Ambassade Hotel in Amsterdam aan de Herengracht](/assets/images/blog/ambassade-hotel.jpg)
+Ambassade Hotel
 
 
 # Statief
