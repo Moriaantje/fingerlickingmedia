@@ -1,9 +1,9 @@
 ---
 title: Interieurfotograaf worden is nog nooit zo makkelijk geweest!
 author: Marlot Bakker
-header-image: blog/ml.jpg
-featured-image: ml.jpg
-featured-image-alt: Vuurbal
+header-image: assets/images/blog/header.jpg
+featured-image: assets/images/blog/header.jpg
+featured-image-alt: Villa Coucou
 intro: Vandaag gaan we het hebben over interieurfotografie. Het lijkt simpel, maar er zit meer achter dan je misschien in eerste instantie denkt. Na het lezen van deze blog kun jij interieurfoto's maken als een pro!.
 ---
 
@@ -18,6 +18,9 @@ Zoals bij de meeste fotografie-specialisaties, wil je ook bij interieurfotografi
 
 Is er geen of weinig daglicht in bijvoorbeeld het restaurant of de vergaderruimte en heb je te maken met kunstlicht? Zorg er dan voor dat je je witbalans aanpast op de camera op basis van het omgevingslicht. Door het aanpassen van de witbalans worden natuurlijke kleuren behouden. Ook het uitzetten van een storende lichtbron kan veel tijd schelen in de nabewerking. Denk tijdens het fotograferen dus al na over je gewenste eindproduct!
 
+![Interieurfoto van De Hoofdwacht](assets/images/blog/de-hoofdwacht-lr-45.jpg)
+De Hoofdwacht
+
 # Compositie
 Compositie; misschien wel één van de belangrijkste aspecten als het gaat om interieurfotografie. Vaak is het de beste keuze om vanuit een hoek van de ruimte of recht van voren te fotograferen. Op deze manier krijg je het meest op beeld en maak je optimaal gebruik van de groothoeklens. Maak ook gebruik van de lijnen in het interieur. Hiermee beïnvloed je de kijklijn van het oog en leg je de focus op hetgeen waar jij wilt dat de aandacht naartoe gaat.
 
@@ -25,7 +28,7 @@ Daarnaast is het belangrijk om niet tegen het licht in te fotograferen. Als foto
 
 Extra tip: gebruik de interne waterpas van je camera of statief om er zeker van te zijn dat je foto kaarsrecht is.
 
-![ML](/assets/images/blog/ml.jpg)
+![Vergaderzaal Restaurant ML met uitzicht over de St. Bavokerk](/assets/images/blog/ml.jpg)
 Restaurant ML
 
 # Instellingen
@@ -38,7 +41,7 @@ In onze vorige blog legden we het al uit; de ISO-waarde wil je altijd zo laag mo
 Omdat de sluitertijd je variabele is, kun je het best fotograferen in de AV-stand. In deze stand hoef je enkel de ISO-waarde en het diafragma in te stellen en de camera zal zelf een passende sluitertijd instellen.
 Maar ook met sluitertijd kun je spelen! Kijk maar eens naar de nachtlampjes in deze foto. Dit is geen photoshop. Wat dan wel? Hier is een sluitertijd van meerdere seconden gebruikt. Tijdens deze seconden valt het licht van de nachtlampjes in de lens, waardoor er een ster ontstaat. Hoe langer de sluitertijd, hoe groter de ster!
 
-
+![Hotelkamer van het Ambassade Hotel in Amsterdam aan de Herengracht](assets/images/blog/ambassade-hotel.jpg)
 
 
 #Statief
