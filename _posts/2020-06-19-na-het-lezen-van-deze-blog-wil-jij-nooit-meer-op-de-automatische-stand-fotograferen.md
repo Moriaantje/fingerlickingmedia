@@ -20,6 +20,7 @@ Let op: het is hierbij heel belangrijk om een statief te gebruiken, omdat de cam
 
 
 ![Villa Coucou](/assets/images/blog/na-het-lezen-van-deze-blog-wil-jij-nooit-meer-op-de-automatische-stand-fotograferen/coucou-115.jpg)
+Villa Coucou
 
 
 # Diafragma
@@ -37,7 +38,7 @@ Wil je juist een scherpe foto om bijvoorbeeld het gehele interieur scherp vast t
 Om diafragma goed onder de knie te krijgen, moet je vooral veel oefenen. Zet je camera in de AV stand en maak foto’s met verschillende diafragma’s. Zo zul je het verschil vanzelf zien!
 
 ![Diafragma](/assets/images/blog/na-het-lezen-van-deze-blog-wil-jij-nooit-meer-op-de-automatische-stand-fotograferen/coucou-34.jpg)
-
+Villa Coucou
 
 # ISO
 Stel je voor dat je foto’s maakt in een donker restaurant. Je sluitertijd staat op dertig seconden en je diafragma staat helemaal open, maar tóch is je foto nog erg donker. Dan kun je je ISO verhogen.
@@ -47,6 +48,7 @@ Niet helemaal… Een hoge ISO-waarde zorgt namelijk ook voor veel ruis in je fot
 
 
 ![033](/assets/images/blog/na-het-lezen-van-deze-blog-wil-jij-nooit-meer-op-de-automatische-stand-fotograferen/grand-cafe.jpg)
+Grand Cafe 033
 
 
 # Dus even alles op een rijtje:
