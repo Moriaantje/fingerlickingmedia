@@ -1,8 +1,8 @@
 ---
 title: Interieurfotograaf worden is nog nooit zo makkelijk geweest!
 author: Marlot Bakker
-header-image: assets/images/blog/header.jpg
-featured-image: assets/images/blog/header.jpg
+header-image: blog/header.jpg
+featured-image: header.jpg
 featured-image-alt: Villa Coucou
 intro: Vandaag gaan we het hebben over interieurfotografie. Het lijkt simpel, maar er zit meer achter dan je misschien in eerste instantie denkt. Na het lezen van deze blog kun jij interieurfoto's maken als een pro!.
 ---
