@@ -39,6 +39,8 @@ intro: Ik ben Pietje de junior blog-schrijver.
 Zodra je het bestand opslaat op de `master` is het zichtbaar voor iedereen.
 
 Plaatjes in de tekst maak je met:
-```[dit is de alt-tekst van een plaatje](/assets/images/blog/dit-is-de-bestandsnaam.jpg)```
+```
+[dit is de alt-tekst van een plaatje](/assets/images/blog/dit-is-de-bestandsnaam.jpg)
+```
 
 Ook hier geen spaties of underscores gebruiken.
