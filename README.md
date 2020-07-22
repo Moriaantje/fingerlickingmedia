@@ -3,6 +3,8 @@ Om een bestand aan te maken navigeer je naar de folder waar je hem wilt hebben e
 
 Geef het bestand bovenin een naam en voeg je inhoud toe. Om te zien hoe je markdown er uit ziet kun je het **Preview** tabje gebruiken.
 
+Gebruik geen hoofdletters, spaties of underscores in bestandsnamen. Heb je een spatie nodig, gebruik dan een 'minnetje' (-).
+
 # Commit
 Het toevoegen of wijzigen van een bestand noemen we een commit. Elke commit heeft een schrijver en een omschrijving. Vul deze in en kies `master` of **new branch**. Als je een commit op `master` maakt is het zichtbaar voor iedereen. Als je voor **new branch** kiest, dan kunnen ander eet.nu mensen met toegang het bekijken zonder dat bezoekers het zien.
 
@@ -35,3 +37,8 @@ intro: Ik ben Pietje de junior blog-schrijver.
 ```
 
 Zodra je het bestand opslaat op de `master` is het zichtbaar voor iedereen.
+
+Plaatjes in de tekst maak je als volgt:
+`[dit is de alt-tekst van een plaatje](/assets/images/blog/dit-is-de-bestandsnaam.jpg)`
+
+Ook hier geen spaties of underscores gebruiken.
