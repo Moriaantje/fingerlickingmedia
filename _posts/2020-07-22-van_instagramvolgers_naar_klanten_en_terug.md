@@ -5,6 +5,7 @@ header-image: blog/header.jpg
 featured-image: blog/restaurantfotografie.jpg
 featured-image-alt: Restaurant op de Veluwe
 intro: Wist je dat het gemiddelde aantal volgers op een Instagramaccount tussen de 125 en 160 volgers ligt? En hoe leuk zou het zijn als je deze volgers als klant hebt? Je restaurant zit vol gasten, je producten vliegen over de ‘figuurlijke’ toonbank en jouw aangeboden diensten worden veelvuldig gebruikt…? Dit klinkt natuurlijk voor elke ondernemer als muziek in de oren. Maar the road to succes kent meerdere wegen. Bij Finger Licking Media weten wij precies wat jouw socialmediakanalen nodig hebben voor dat stukje flair om je volgers over de streep te trekken. In deze blog geven we jou een tipje van de sluier.  
+---
 
 ![Gast maakt foto van gerecht](assets/images/blog/socialbeheer_brasserieambassade.jpg)
 Brasserie Ambassade, Amsterdam
