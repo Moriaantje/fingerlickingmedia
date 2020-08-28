@@ -2,7 +2,7 @@
 title: Hoe werkt het algoritme? 
 author: Rosanna de Vos
 header-image: blog/algoritme-dnbal-instagram.jpg
-featured-image: gerecht-la-provence-finedining.jpg
+featured-image: blog/gerecht-la-provence-finedining.jpg
 featured-image-alt: La provence sterrenrestaurant
 intro:  ⁠Je hebt onwijs je best gedaan om een mooie en interessante post te maken, je post het en vervolgens is er geen tot bijna geen interactie op jouw bericht. Herken jij dit? Zó frustrerend; het algoritme op de socialmediakanalen! Door deze boosdoener wordt het iedereen steeds moeilijker gemaakt om doelgroepen te bereiken, meer volgers te krijgen en de betrokkenheid bij de berichten te verbeteren. Daarom wordt het hoogtijd dat wij jou uitleggen wat het algoritme is en hoe jij alsnog je socialmediakanaal kunt laten groeien! Ready, set, go...!  
 ---
@@ -37,6 +37,6 @@ Een reactie gehad onder jouw post? Geef de reactie altijd een like en/of comment
 ⁠Één van de redenen dat je post geen likes of reacties krijgt, is dat het maar een klein bereik heeft gegenereerd. Dit kan komen doordat jij jouw post op de verkeerde tijd hebt geplaatst.⁠ Deel je content dus op (de voor jou) slimme tijden. Tip: duik eens in de statieken van jouw (bedrijfs)profiel en kom erachter wanneer de meeste volgers van jouw account actief zijn. De interactie is in de eerste tien tot twintig minuten het allerbelangrijkst, dus let goed op dat je post wanneer de meeste volgers online zijn.
 
 # New things are coming
-Het algoritme loves you wanneer je gebruikt van nieuwe features. Denk daarbij aan het plaatsen van een story op je verhaal van Facebook of Instagram. Maar ook de nieuwste trends op social media Reels en TikTok (blog hierover volgt!) zijn niet weg te slaan in de wereld van social media. Implementeer dit daarom ook in je social media strategie, want juist deze nieuwe dingen zorgen ervoor dat je interessant en relevant bent voor het algoritme! 
+Het algoritme loves you wanneer je gebruikt maakt van nieuwe features. Denk daarbij aan het plaatsen van een story op je verhaal van Facebook of Instagram. Maar ook de nieuwste trends op social media -Reels en TikTok- (blog hierover volgt!) zijn niet weg te slaan in de wereld van social media. Implementeer dit daarom ook in je social media strategie, want juist deze nieuwe dingen zorgen ervoor dat je interessant en relevant bent voor het algoritme. 
 
 Zoals je nu wel begrijpt is het algoritme eigenlijk een spelletje! Je hebt winnaars en je hebt verliezers. Wij proberen met onze tips van iedereen een winnaar te maken op social media. Heb je alle tips opgevolgd en bereik je nog steeds niet het gewenste resultaat? Finger Licking Media kan je daarbij helpen. Stuur ons een DM op [Instagram](https://www.instagram.com/fingerlicking.media/)! 
