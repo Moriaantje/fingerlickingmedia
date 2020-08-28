@@ -2,7 +2,7 @@
 title: Hoe werkt het algoritme? 
 author: Rosanna de Vos
 header-image: blog/algoritme-dnbal-instagram.jpg
-featured-image: blog/gerecht-la-provence-finedining.jpg
+featured-image: gerecht-la-provence-finedining.jpg
 featured-image-alt: La provence sterrenrestaurant
 intro:  ⁠Je hebt onwijs je best gedaan om een mooie en interessante post te maken, je post het en vervolgens is er geen tot bijna geen interactie op jouw bericht. Herken jij dit? Zó frustrerend; het algoritme op de socialmediakanalen! Door deze boosdoener wordt het iedereen steeds moeilijker gemaakt om doelgroepen te bereiken, meer volgers te krijgen en de betrokkenheid bij de berichten te verbeteren. Daarom wordt het hoogtijd dat wij jou uitleggen wat het algoritme is en hoe jij alsnog je socialmediakanaal kunt laten groeien! Ready, set, go...!  
 ---
