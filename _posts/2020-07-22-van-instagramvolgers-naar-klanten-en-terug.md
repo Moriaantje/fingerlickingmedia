@@ -1,9 +1,9 @@
 ---
 title: Van instagramvolgers naar klanten en terug! 
 author: Rosanna de Vos
-header-image: blog/algoritme-dnbal-instagram.jpg
-featured-image:  gerecht-la-provence-finedining.jpg
-featured-image-alt: Restaurant Drieberg sterrenrestaurant
+header-image: blog/restaurant-fotografie.jpg
+featured-image:  de-koperen-vis.jpg
+featured-image-alt: Restaurant op de veluwe
 intro: Wist je dat het gemiddelde aantal volgers op een Instagramaccount tussen de 125 en 160 volgers ligt? En hoe leuk zou het zijn als je deze volgers als klant hebt? Je restaurant zit vol gasten, je producten vliegen over de ‘figuurlijke’ toonbank en jouw aangeboden diensten worden veelvuldig gebruikt…? Dit klinkt natuurlijk voor elke ondernemer als muziek in de oren. Maar the road to succes kent meerdere wegen. Bij Finger Licking Media weten wij precies wat jouw socialmediakanalen nodig hebben voor dat stukje flair om je volgers over de streep te trekken. In deze blog geven we jou een tipje van de sluier.  
 ---
 
