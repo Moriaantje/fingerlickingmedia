@@ -10,10 +10,10 @@ intro: Foodfotografie of culinaire fotografie is een vak apart. Natuurlijk kunne
 We beginnen bij het begin. De camera!
 Velen fotograferen met hun telefoon en begrijp ons niet verkeerd; de camera’s op deze kleine apparaten stellen zeker niet teleur. Maar wil je écht iets tofs creëren en je foto’s naar een hoger niveau tillen? Dan is een spiegelreflex of systeemcamera een minimale must.
 
-![Hamburger](/assets/images/blog/laat-je-gasten-watertanden/image4.jpg)
+![Foodfotografie leren](/assets/images/blog/laat-je-gasten-watertanden/image4.jpg)
 Braai, Amsterdam
 
-Bij Finger Licking Media zijn wij team Canon en fotograferen met een full frame Canon EOS 6D MARK. Full frame camera’s zijn lichtgevoeliger dan reguliere spiegelreflexcamera’s en zorgen ervoor dat je - ook in slechtere lichtomstandigheden - je gerecht goed kunt belichten zonder een hoge [ISO-waarde](/blog/na-het-lezen-van-deze-blog-wil-jij-nooit-meer-op-de-automatische-stand-fotograferen) te hoeven gebruiken. Want op een mooie foto hoort ruis niet thuis.
+Bij Finger Licking Media zijn wij team Canon en fotograferen we met een full frame Canon EOS 6D MARK. Full frame camera’s zijn lichtgevoeliger dan reguliere spiegelreflexcamera’s en zorgen ervoor dat je - ook in slechtere lichtomstandigheden - je gerecht goed kunt belichten zonder een hoge [ISO-waarde](/blog/na-het-lezen-van-deze-blog-wil-jij-nooit-meer-op-de-automatische-stand-fotograferen) te hoeven gebruiken. Want op een mooie foto hoort ruis niet thuis.
 
 # Lenzen
 Wil je geen standaard plaatje maken? Gebruik dan meerdere objectieven, zodat je veelzijdige foto’s krijgt.
@@ -23,7 +23,7 @@ Een lens met een groot diafragma (laag F-getal) is een zeer waardevolle toevoegi
 
 Ook zorgt deze wazige achtergrond voor meer sfeer; iets wat je graag wilt laten zien als restaurant.
 
-![Gerecht met wazige achtergrond](/assets/images/blog/laat-je-gasten-watertanden/image1.jpg)
+![Foto maken met wazige achtergrond](/assets/images/blog/laat-je-gasten-watertanden/image1.jpg)
 Isola Bella, Texel
 
 Daarnaast is het van meerwaarde dat je een veelzijdige lens bezit, zoals de 24-105MM IS STM van Canon. Waarom is deze lens veelzijdig? Omdat je geen vast brandpunt hebt. Met deze lens kom je heel ver; je kunt namelijk de gehele tafel vol gerechten vastleggen, maar ook details zoals de eetbare bloemetjes.
@@ -41,15 +41,15 @@ Met het maken van overzichtsfoto's ben je er echter nog niet. Detailfotografie i
 Experimenteer en schiet je kaartje maar vol. Beter te veel foto’s dan te weinig!
 
 # Achtergrond
-We hadden het er net al even over; de achtergrond of omgeving van een gerecht heeft veel invloed op het algehele plaatje. Kies voor een gezellig druk cafe of juist voor een effen ondergrond. Deze kan zwart of wit zijn, maar ook knalroze - mits dat je gerecht versterkt. Je kunt je set aankleden met props, zoals kruiden, theedoeken of bijpassende drankjes. Maar pas op dat je niet overdrijft en vergeet nooit waar het in je foto om draait.
+We hadden het er net al even over; de achtergrond of omgeving van een gerecht heeft veel invloed op het algehele plaatje. Kies voor een gezellig druk café of juist voor een effen ondergrond voor je foodfotografie. Deze kan zwart of wit zijn, maar ook knalroze - mits dat je gerecht versterkt. Je kunt je set aankleden met props, zoals kruiden, theedoeken of bijpassende drankjes. Maar pas op dat je niet overdrijft en vergeet nooit waar het in je foto om draait.
 
-![Gerecht met gevulde foto achtergrond](/assets/images/blog/laat-je-gasten-watertanden/image5.jpg)
+![Foodfotografie online leren](/assets/images/blog/laat-je-gasten-watertanden/image5.jpg)
 Van der Hooft, Zevenbergen
 
 # En als laatste: nabewerking
 Een filter maakt of kraakt een foto. Kies voor een filter die de kleuren van het gerecht accentueren. Hoe kleurrijker, hoe smakelijker. Kijk maar eens; welke foto ziet er smakelijker uit?
 
-![Verschil met origineel en nabewerkte foto](/assets/images/blog/laat-je-gasten-watertanden/nabewerking.jpg)
+![Foto van gerecht bewerken in Lightroom](/assets/images/blog/laat-je-gasten-watertanden/nabewerking.jpg)
 Peter's Bistro, Utrecht
 
 Daarnaast bestaan er vele trucjes om het gerecht nog smakelijker te maken. Hierover leggen we meer uit in onze blog over nabewerking welke binnenkort online komt!
