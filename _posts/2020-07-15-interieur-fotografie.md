@@ -13,12 +13,12 @@ Misschien wel één van de meest belangrijke items in deze blog: de lens - oftew
 Een groothoeklens biedt een nieuw perspectief en geeft jou als fotograaf de optie om veel meer in beeld te brengen. Hoe meer er in beeld staat, hoe groter en spectaculairder de ruimte lijkt.
 
 
-# Licht
+# Fotograferen met daglicht of een flitser
 Zoals bij de meeste fotografie-specialisaties wil je ook bij interieurfotografie het liefst fotograferen met daglicht. Daglicht zorgt voor natuurlijke kleuren en geeft je de luxe om je [ISO-waarde](/blog/na-het-lezen-van-deze-blog-wil-jij-nooit-meer-op-de-automatische-stand-fotograferen) laag te houden en daarmee ruis in je foto te voorkomen. 
 
-Is er geen of weinig daglicht in bijvoorbeeld het restaurant of de vergaderruimte en heb je te maken met kunstlicht? Zorg er dan voor dat je je witbalans aanpast op de camera op basis van het omgevingslicht. Door het aanpassen van de witbalans worden natuurlijke kleuren behouden. Ook het uitzetten van een storende lichtbron kan veel tijd schelen in de nabewerking. Denk tijdens het fotograferen dus al na over je gewenste eindproduct!
+Is er geen of weinig daglicht in bijvoorbeeld het restaurant of de vergaderruimte en heb je te maken met kunstlicht? Zorg er dan voor dat je je witbalans aanpast op de spiegelreflexcamera op basis van het omgevingslicht. Door het aanpassen van de witbalans worden natuurlijke kleuren behouden. Ook het uitzetten van een storende lichtbron kan veel tijd schelen in de nabewerking. Denk tijdens het fotograferen dus al na over je gewenste eindproduct!
 
-![Interieurfoto van De Hoofdwacht](/assets/images/blog/de-hoofdwacht-lr-45.jpg)
+![Interieurfoto maken in een restaurant](/assets/images/blog/de-hoofdwacht-lr-45.jpg)
 De Hoofdwacht
 
 # Compositie
@@ -28,10 +28,10 @@ Daarnaast is het belangrijk om niet tegen het licht in te fotograferen. Als inte
 
 Extra tip: gebruik de interne waterpas van je camera of statief om er zeker van te zijn dat je foto kaarsrecht is.
 
-![Vergaderzaal Restaurant ML met uitzicht over de St. Bavokerk](/assets/images/blog/ml.jpg)
+![Interieurfotografie instellingen camera](/assets/images/blog/ml.jpg)
 Restaurant ML
 
-# Instellingen
+# Camera instellingen
 De belangrijkste instelling bij interieurfotografie is het diafragma. De ISO-waarde komt daar vlak achteraan en de sluitertijd is je variabele.
 
 Het diafragma wil je zo klein mogelijk hebben (groot F-getal). Een klein diafragma zorgt er namelijk voor dat er geen scherptediepte is en dat dus de gehele foto scherp is.
@@ -39,9 +39,9 @@ Het diafragma wil je zo klein mogelijk hebben (groot F-getal). Een klein diafrag
 In onze [vorige blog](/blog/na-het-lezen-van-deze-blog-wil-jij-nooit-meer-op-de-automatische-stand-fotograferen) legden we het al uit; de ISO-waarde wil je altijd zo laag mogelijk houden om ruis te voorkomen. Zet je ISO dus lekker op 100 als je voldoende (dag)licht hebt.
 
 Omdat de sluitertijd je variabele is, kun je het best fotograferen in de AV-stand. In deze stand hoef je enkel de ISO-waarde en het diafragma in te stellen en de camera zal zelf een passende sluitertijd instellen.
-Maar ook met sluitertijd kun je spelen! Kijk maar eens naar de nachtlampjes in deze foto. Dit is geen photoshop. Wat dan wel? Hier is een sluitertijd van meerdere seconden gebruikt. Tijdens deze seconden valt het licht van de nachtlampjes in de lens, waardoor er een ster ontstaat. Hoe langer de sluitertijd, hoe groter de ster!
+Maar ook met sluitertijd kun je spelen! Kijk maar eens naar de nachtlampjes in deze foto. Dit is geen photoshop. Wat dan wel? Hier is een sluitertijd van meerdere seconden gebruikt in combinatie met een klein diagrafma. Tijdens deze seconden valt het licht van de nachtlampjes in de lens, waardoor er een ster ontstaat. Hoe langer de sluitertijd, hoe groter de ster!
 
-![Hotelkamer van het Ambassade Hotel in Amsterdam aan de Herengracht](/assets/images/blog/ambassade-hotel.jpg)
+![Hotelfotografie Amsterdam](/assets/images/blog/ambassade-hotel.jpg)
 Ambassade Hotel
 
 
