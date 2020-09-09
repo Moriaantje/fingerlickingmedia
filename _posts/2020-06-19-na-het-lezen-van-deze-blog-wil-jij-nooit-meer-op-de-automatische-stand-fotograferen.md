@@ -13,7 +13,7 @@ De naam zegt het al; de sluitertijd bepaalt hoe lang een foto wordt gemaakt. De 
 
 Schiet je uit de hand? Dan raden wij aan om de sluitertijd op minimaal 1/125 van een seconde in te stellen. Dit is een gemiddelde vuistregel waarmee je ervan uit kunt gaan dat het een scherpe foto wordt. Wil je de specifieke sluitertijd voor jouw objectieven berekenen? Volg ons dan op Instagram; binnenkort delen wij de gouden tip!
 
-Sta je graag langs de sportlijn en wil je de beweging bevriezen? Dan is de snelste sluitertijd van 1/4000 een must. Hoe sneller de sluitertijd, hoe korter de foto wordt gemaakt, hoe korter het moment op de foto is. Oftewel; hoe scherper de sporter zichtbaar is op je foto.
+Sta je graag langs de sportlijn en wil je de beweging bevriezen tijden sportfotografie? Dan is de snelste sluitertijd van 1/4000 een must. Hoe sneller de sluitertijd, hoe korter de foto wordt gemaakt, hoe korter het moment op de foto is. Oftewel; hoe scherper de sporter zichtbaar is op je foto.
 
 Wil je juist beweging terugzien op je foto? Dan zul je de lens een langere periode open moeten zetten. Bij een sluitertijd van 30” zal de camera dertig seconde lang het beeld vastleggen. Dit betekent dat alles wat de gehele foto lang stilstaat op het beeld terug te zien is en alles wat beweegt wazig is of zelfs helemaal niet te zien is. Probeer het maar eens!
 Let op: het is hierbij heel belangrijk om een statief te gebruiken, omdat de camera volledig stil stil moet staan.
@@ -24,7 +24,7 @@ Villa Coucou
 
 
 # Diafragma
-Je kent ze wel. Die foto’s waar de persoon mooi scherp is en de achtergrond romantisch onscherp. Dit noemen we scherptediepte en is te danken aan het diafragma. Het diafragma is vergelijkbaar met je pupil en bepaalt hoeveel licht er door de lens wordt toegelaten.
+Je kent ze wel. Die foto’s waar de persoon mooi scherp is en de achtergrond romantisch onscherp. Dit noemen we scherptediepte en is te danken aan het diafragma. Het diafragma op jouw spiegelreflexcamera is vergelijkbaar met je pupil en bepaalt hoeveel licht er door de lens wordt toegelaten.
 
 Hoe groter het diafragma, hoe lager het F-getal.
 
@@ -35,7 +35,7 @@ Hoe groter het diafragma, hoe lager het F-getal.
 Wil je een onscherpe achtergrond, zodat de aandacht naar het onderwerp wordt getrokken? Kies dan voor een groot diafragma (laag F-getal). 
 Wil je juist een scherpe foto om bijvoorbeeld het gehele interieur scherp vast te leggen? Kies dan voor een klein diafragma (hoog F-getal).
 
-Om diafragma goed onder de knie te krijgen, moet je vooral veel oefenen. Zet je camera in de AV stand en maak foto’s met verschillende diafragma’s. Zo zul je het verschil vanzelf zien!
+Om diafragma goed onder de knie te krijgen, moet je vooral veel oefenen. Zet je camera van de automatische stand naar de AV stand en maak foto’s met verschillende diafragma’s. Zo zul je het verschil vanzelf zien!
 
 ![Diafragma](/assets/images/blog/na-het-lezen-van-deze-blog-wil-jij-nooit-meer-op-de-automatische-stand-fotograferen/coucou-34.jpg)
 Villa Coucou
@@ -58,6 +58,6 @@ Grand Cafe 033
 
 Sluitertijd, diafragma en ISO hebben dus alle drie hun eigen functies, maar hebben allemaal invloed op de belichting van de foto. Samen worden ze ook wel de belichtingsdriehoek genoemd.
 
-Dit is het moment! Zet je camera aan, verander de stand van ‘auto’ naar ‘manual’ en begin met oefenen, want oefening baart kunst.
+Dit is het moment! Zet je camera aan, verander de automatische stand naar manual en begin met oefenen, want oefening baart kunst.
 
 Heb je toch nog vragen? Stuur ons gerust een DM via [Instagram](https://www.instagram.com/fingerlicking.media/).
