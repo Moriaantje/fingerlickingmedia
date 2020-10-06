@@ -15,12 +15,11 @@
     text-shadow: 0px 0px 15px rgba(0, 0, 0, 0.20);
   }
   
-  .logo a {
-    color: #fff;
+  .logo img {
+    height:90px;
     
     &:hover {
-      color: $color-primary;
-      text-decoration: none;
+      fill: $color-primary;
     }
   }
   
